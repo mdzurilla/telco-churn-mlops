@@ -4,7 +4,7 @@
 
 This project is a lightweight churn-scoring platform built around a single binary classification use case.
 
-The goal is not to build a generic ML platform with many model families. The goal is to show a realistic end-to-end workflow for:
+The goal is not to build a generic ML platform with many model families. The goal is to demonstrate the key principles of an end-to-end operational workflow for:
 
 - real-time scoring
 - batch scoring
@@ -13,6 +13,8 @@ The goal is not to build a generic ML platform with many model families. The goa
 - retraining
 - challenger promotion
 - historical replay of archived models
+
+This is therefore a proof that the workflow can be built coherently, not a claim that the current implementation is production-ready.
 
 ## Core Design Choice
 
