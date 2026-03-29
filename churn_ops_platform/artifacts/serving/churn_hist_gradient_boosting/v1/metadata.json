@@ -1,0 +1,15 @@
+{
+  "model_name": "churn_hist_gradient_boosting",
+  "model_version": "v1",
+  "model_family": "HistGradientBoostingClassifier",
+  "threshold": 0.31,
+  "source_model_path": "..\\artifacts\\source\\model_bundles\\hist_boosted_trees_final.pkl",
+  "feature_artifacts": [
+    "..\\artifacts\\source\\feature_engineering\\01_eda.json",
+    "..\\artifacts\\source\\feature_engineering\\02_ram.json",
+    "..\\artifacts\\source\\feature_engineering\\03_fe.json",
+    "..\\artifacts\\source\\feature_engineering\\04_fe.json",
+    "..\\artifacts\\source\\feature_engineering\\05_fe.json",
+    "..\\artifacts\\source\\feature_engineering\\06_fe.json"
+  ]
+}
