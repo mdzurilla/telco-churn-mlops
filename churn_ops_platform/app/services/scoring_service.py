@@ -11,7 +11,13 @@ class ScoringService:
 
     def score_one(self, payload: dict) -> dict:
         artifact = self.registry_service.get_active_artifact()
+        return self._score_with_artifact(payload, artifact)
 
+    def score_one_historical(self, payload: dict, artifact_id: str) -> dict:
+        artifact = self.registry_service.get_archived_artifact(artifact_id)
+        return self._score_with_artifact(payload, artifact)
+
+    def _score_with_artifact(self, payload: dict, artifact: dict) -> dict:
         raw_df = pl.DataFrame([payload])
 
         transformed_df = apply_artifacts(
@@ -31,8 +37,10 @@ class ScoringService:
         prediction = int(probability >= artifact["threshold"])
 
         return {
+            "api_version": artifact.get("api_version", "v1"),
             "model_name": artifact["model_name"],
             "model_version": artifact["model_version"],
+            "artifact_id": artifact.get("artifact_id", "artifact_legacy_v1"),
             "probability": probability,
             "prediction": prediction,
             "threshold": artifact["threshold"],

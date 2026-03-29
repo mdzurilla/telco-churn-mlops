@@ -8,6 +8,7 @@ from pydantic import ValidationError
 from app.api.v1.schemas.scoring import ScoreRequest
 from app.core.config import settings
 from app.core.database import SessionLocal
+from app.services.audit_service import AuditService
 from app.services.job_service import JobService
 from app.services.model_registry_service import ModelRegistryService
 from app.services.scoring_service import ScoringService
@@ -21,6 +22,7 @@ class BatchService:
         self.job_service = JobService()
         self.registry_service = ModelRegistryService()
         self.scoring_service = ScoringService(self.registry_service)
+        self.audit_service = AuditService()
 
     def process_batch_job(self, job_id: str) -> None:
         db = SessionLocal()
@@ -53,6 +55,21 @@ class BatchService:
                 try:
                     validated = ScoreRequest(**raw_record)
                     result = self.scoring_service.score_one(validated.model_dump())
+                    self.audit_service.log_inference(
+                        db,
+                        request_source="batch",
+                        request_payload=validated.model_dump(),
+                        api_version=result["api_version"],
+                        model_name=result["model_name"],
+                        model_version=result["model_version"],
+                        artifact_id=result["artifact_id"],
+                        status="success",
+                        prediction=result["prediction"],
+                        probability=result["probability"],
+                        threshold=result["threshold"],
+                        job_id=job_id,
+                        row_index=idx,
+                    )
 
                     output_row = {
                         **raw_record,
@@ -63,18 +80,34 @@ class BatchService:
                         "threshold": result["threshold"],
                         "model_name": result["model_name"],
                         "model_version": result["model_version"],
+                        "artifact_id": result["artifact_id"],
                     }
 
                 except ValidationError as exc:
+                    error_message = self._format_validation_error(exc)
+                    self.audit_service.log_inference(
+                        db,
+                        request_source="batch",
+                        request_payload=raw_record,
+                        api_version=settings.api_version,
+                        model_name=settings.active_model_name,
+                        model_version=settings.active_model_version,
+                        artifact_id=None,
+                        status="validation_error",
+                        error_message=error_message,
+                        job_id=job_id,
+                        row_index=idx,
+                    )
                     output_row = {
                         **raw_record,
                         "row_status": "validation_error",
-                        "row_error": self._format_validation_error(exc),
+                        "row_error": error_message,
                         "score_probability": None,
                         "prediction": None,
                         "threshold": None,
                         "model_name": settings.active_model_name,
                         "model_version": settings.active_model_version,
+                        "artifact_id": None,
                     }
 
                 except Exception as exc:
@@ -82,6 +115,19 @@ class BatchService:
                         "Unexpected row scoring error in job %s at row %s.",
                         job_id,
                         idx,
+                    )
+                    self.audit_service.log_inference(
+                        db,
+                        request_source="batch",
+                        request_payload=raw_record,
+                        api_version=settings.api_version,
+                        model_name=settings.active_model_name,
+                        model_version=settings.active_model_version,
+                        artifact_id=None,
+                        status="scoring_error",
+                        error_message=str(exc),
+                        job_id=job_id,
+                        row_index=idx,
                     )
                     output_row = {
                         **raw_record,
@@ -92,6 +138,7 @@ class BatchService:
                         "threshold": None,
                         "model_name": settings.active_model_name,
                         "model_version": settings.active_model_version,
+                        "artifact_id": None,
                     }
 
                 output_rows.append(output_row)

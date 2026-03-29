@@ -136,8 +136,10 @@ class ScoreRequest(BaseModel):
 
 
 class ScoreResponse(BaseModel):
+    api_version: str
     model_name: str
     model_version: str
+    artifact_id: str
     probability: float = Field(ge=0, le=1)
     prediction: Literal[0, 1]
     threshold: float = Field(ge=0, le=1)

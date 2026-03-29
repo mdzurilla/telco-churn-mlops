@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timezone
 from sqlalchemy.orm import Session
 
 from app.models.batch_job import BatchJob
@@ -33,7 +33,7 @@ class JobService:
         if job is None:
             return
         job.status = "running"
-        job.started_at = datetime.utcnow()
+        job.started_at = datetime.now(timezone.utc)
         db.commit()
 
     def update_progress(
@@ -64,7 +64,7 @@ class JobService:
         if job is None:
             return
         job.status = "completed"
-        job.completed_at = datetime.utcnow()
+        job.completed_at = datetime.now(timezone.utc)
         job.output_file_path = output_file_path
         job.rows_total = rows_total
         job.rows_processed = rows_processed
@@ -82,7 +82,7 @@ class JobService:
         if job is None:
             return
         job.status = "failed"
-        job.completed_at = datetime.utcnow()
+        job.completed_at = datetime.now(timezone.utc)
         job.rows_total = rows_total
         job.rows_processed = rows_processed
         job.error_message = error_message
