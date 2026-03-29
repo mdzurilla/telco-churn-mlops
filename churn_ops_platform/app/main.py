@@ -1,6 +1,6 @@
 from sqlalchemy import inspect, text
 from fastapi import FastAPI
-from app.api.v1.routers import scoring, batch, training, models, monitoring, audit, health
+from app.api.v1.routers import scoring, batch, training, models, monitoring, health
 from app.core.database import Base, engine
 from app.models.batch_job import BatchJob  # noqa: F401
 from app.models.inference_log import InferenceLog  # noqa: F401

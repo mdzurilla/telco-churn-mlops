@@ -121,7 +121,7 @@ class ModelRepository:
     def read_metadata(self, metadata_path: Path) -> dict[str, Any]:
         if not metadata_path.exists():
             return {}
-        return json.loads(metadata_path.read_text(encoding="utf-8"))
+        return json.loads(metadata_path.read_text(encoding="utf-8-sig"))
 
     def write_metadata(self, metadata_path: Path, metadata: dict[str, Any]) -> None:
         metadata_path.parent.mkdir(parents=True, exist_ok=True)
