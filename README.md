@@ -54,7 +54,7 @@ It is not meant to claim:
 - distributed job orchestration
 - cloud deployment maturity
 
-Those are valid next steps in a real environment, but adding placeholder versions of them here would create more theater than signal.
+Those are valid next steps in a real environment, but not in this portfolio theoretical project.
 
 ## Dataset
 
@@ -139,6 +139,8 @@ Then run notebooks from `01_...` to `08_...` as needed.
 
 ```powershell
 cd churn_ops_platform
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
