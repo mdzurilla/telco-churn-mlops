@@ -1,0 +1,1 @@
+{"new_features": [{"name": "PaymentMethod_bin_3", "source": {"name": "PaymentMethod", "data_type": "string"}, "data_type": "string", "action": "relevel", "mapping": {"Mailed check": "Mailed check", "Electronic check": "Electronic check", "Bank transfer (automatic)": "Automatic", "Credit card (automatic)": "Automatic"}}], "dropped_features": ["PaymentMethod"]}

@@ -1,0 +1,1 @@
+{"new_features": [{"name": "MC_x_Additional", "data_type": "numeric", "action": "aggregate_multiply", "fields": ["AdditionalInternetServicesCount", "MonthlyCharges"]}, {"name": "MC_x_Streaming", "data_type": "numeric", "action": "aggregate_multiply", "fields": ["StreamingServicesCount", "MonthlyCharges"]}], "dropped_features": []}

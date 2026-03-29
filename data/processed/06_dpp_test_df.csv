@@ -1,0 +1,1410 @@
+Partner,Dependents,tenure,InternetService,Contract,PaperlessBilling,MonthlyCharges,Churn,SeniorCitizenRelevel,AdditionalInternetServicesCount,StreamingServicesCount,MC_x_Additional,MC_x_Streaming,PaymentMethod_bin_3
+Yes,No,42,Fiber optic,Month-to-month,Yes,84.3,Yes,No,2.0,0.0,168.6,0.0,Electronic check
+No,No,7,Fiber optic,Month-to-month,Yes,79.0,Yes,No,0.0,1.0,0.0,79.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,70.25,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,10,Fiber optic,Month-to-month,Yes,84.6,Yes,Yes,1.0,1.0,84.6,84.6,Automatic
+Yes,Yes,17,No,Month-to-month,No,24.1,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,1,DSL,Month-to-month,Yes,60.0,Yes,No,3.0,0.0,180.0,0.0,Electronic check
+No,No,8,Fiber optic,Month-to-month,Yes,86.55,Yes,No,0.0,1.0,0.0,86.55,Electronic check
+Yes,No,1,No,Month-to-month,Yes,20.85,Yes,Yes,0.0,0.0,0.0,0.0,Mailed check
+No,No,39,DSL,Month-to-month,Yes,50.75,Yes,No,1.0,2.0,50.75,101.5,Electronic check
+Yes,No,58,Fiber optic,One year,Yes,105.5,Yes,Yes,3.0,2.0,316.5,211.0,Automatic
+No,No,6,Fiber optic,Month-to-month,Yes,85.15,Yes,Yes,1.0,1.0,85.15,85.15,Automatic
+Yes,No,22,DSL,Month-to-month,Yes,54.2,Yes,No,2.0,0.0,108.4,0.0,Electronic check
+Yes,No,70,Fiber optic,One year,Yes,109.5,Yes,No,3.0,2.0,328.5,219.0,Electronic check
+Yes,Yes,21,Fiber optic,Month-to-month,No,104.4,Yes,No,2.0,2.0,208.8,208.8,Electronic check
+Yes,Yes,71,Fiber optic,Month-to-month,Yes,105.1,Yes,Yes,2.0,2.0,210.2,210.2,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,75.7,Yes,No,1.0,0.0,75.7,0.0,Electronic check
+Yes,No,20,Fiber optic,Month-to-month,No,90.8,Yes,Yes,1.0,1.0,90.8,90.8,Electronic check
+Yes,Yes,4,Fiber optic,Month-to-month,Yes,97.95,Yes,No,1.0,2.0,97.95,195.9,Electronic check
+No,No,32,Fiber optic,Month-to-month,Yes,108.15,Yes,No,3.0,2.0,324.45000000000005,216.3,Automatic
+No,No,6,Fiber optic,Month-to-month,Yes,80.5,Yes,No,0.0,1.0,0.0,80.5,Automatic
+Yes,No,27,Fiber optic,Month-to-month,Yes,104.3,Yes,Yes,2.0,2.0,208.6,208.6,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,71.35,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,13,Fiber optic,Month-to-month,No,89.4,Yes,No,3.0,0.0,268.20000000000005,0.0,Electronic check
+No,No,1,No,Month-to-month,No,20.6,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,19,Fiber optic,Month-to-month,Yes,99.95,Yes,No,1.0,2.0,99.95,199.9,Electronic check
+No,No,10,Fiber optic,Month-to-month,Yes,81.0,Yes,No,1.0,0.0,81.0,0.0,Automatic
+Yes,No,13,Fiber optic,Month-to-month,Yes,70.15,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,70.15,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,68,Fiber optic,One year,Yes,96.55,Yes,Yes,2.0,1.0,193.1,96.55,Automatic
+No,No,39,Fiber optic,One year,Yes,95.55,Yes,No,3.0,1.0,286.65,95.55,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,69.65,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,89.3,Yes,Yes,0.0,2.0,0.0,178.6,Electronic check
+No,No,36,Fiber optic,Month-to-month,Yes,87.55,Yes,No,2.0,1.0,175.1,87.55,Electronic check
+No,No,15,Fiber optic,Month-to-month,Yes,96.3,Yes,Yes,3.0,1.0,288.9,96.3,Mailed check
+No,No,5,Fiber optic,Month-to-month,Yes,85.2,Yes,No,0.0,1.0,0.0,85.2,Electronic check
+No,No,13,DSL,Month-to-month,Yes,35.1,Yes,No,0.0,1.0,0.0,35.1,Electronic check
+Yes,No,5,Fiber optic,Month-to-month,Yes,81.3,Yes,No,1.0,0.0,81.3,0.0,Electronic check
+No,Yes,2,No,Month-to-month,Yes,19.6,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,17,Fiber optic,Month-to-month,Yes,85.45,Yes,No,0.0,1.0,0.0,85.45,Electronic check
+Yes,Yes,1,Fiber optic,Month-to-month,Yes,71.0,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,9,Fiber optic,Month-to-month,Yes,85.05,Yes,Yes,0.0,1.0,0.0,85.05,Electronic check
+No,Yes,1,DSL,Month-to-month,Yes,44.4,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,1,Fiber optic,Month-to-month,Yes,70.3,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,1,Fiber optic,Month-to-month,Yes,79.35,Yes,No,0.0,1.0,0.0,79.35,Automatic
+No,No,9,Fiber optic,Month-to-month,Yes,90.8,Yes,No,0.0,2.0,0.0,181.6,Automatic
+Yes,Yes,20,Fiber optic,Month-to-month,Yes,70.45,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,70,DSL,One year,Yes,45.25,Yes,Yes,0.0,2.0,0.0,90.5,Electronic check
+No,No,3,Fiber optic,Month-to-month,Yes,75.8,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,20,Fiber optic,Month-to-month,No,71.3,Yes,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,No,21,Fiber optic,Month-to-month,Yes,69.1,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,17,Fiber optic,Month-to-month,No,88.25,Yes,No,1.0,1.0,88.25,88.25,Electronic check
+No,No,2,Fiber optic,Month-to-month,No,70.0,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,21,Fiber optic,Month-to-month,Yes,97.35,Yes,No,0.0,2.0,0.0,194.7,Electronic check
+Yes,Yes,5,No,Month-to-month,Yes,25.9,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,24,DSL,Month-to-month,Yes,55.65,Yes,No,1.0,0.0,55.65,0.0,Automatic
+No,Yes,1,Fiber optic,Month-to-month,Yes,69.65,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,10,Fiber optic,Month-to-month,Yes,100.6,Yes,No,1.0,2.0,100.6,201.2,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,86.0,Yes,Yes,1.0,1.0,86.0,86.0,Electronic check
+No,No,53,Fiber optic,One year,Yes,106.95,Yes,No,2.0,2.0,213.9,213.9,Automatic
+No,No,3,DSL,Month-to-month,Yes,29.6,Yes,No,1.0,0.0,29.6,0.0,Electronic check
+Yes,No,46,DSL,One year,Yes,59.9,Yes,Yes,3.0,2.0,179.7,119.8,Automatic
+Yes,Yes,49,Fiber optic,Month-to-month,Yes,95.6,Yes,No,0.0,2.0,0.0,191.2,Electronic check
+No,No,11,DSL,One year,Yes,41.6,Yes,No,1.0,1.0,41.6,41.6,Electronic check
+No,No,45,Fiber optic,Month-to-month,Yes,100.85,Yes,No,1.0,2.0,100.85,201.7,Automatic
+Yes,Yes,37,DSL,Month-to-month,No,40.2,Yes,No,3.0,0.0,120.60000000000001,0.0,Automatic
+Yes,Yes,49,Fiber optic,Month-to-month,No,84.5,Yes,No,0.0,1.0,0.0,84.5,Electronic check
+No,No,14,Fiber optic,Month-to-month,Yes,78.95,Yes,Yes,1.0,0.0,78.95,0.0,Electronic check
+No,No,1,No,Month-to-month,No,20.2,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,47,Fiber optic,Month-to-month,Yes,85.2,Yes,Yes,2.0,0.0,170.4,0.0,Automatic
+Yes,No,13,Fiber optic,Month-to-month,Yes,98.0,Yes,Yes,2.0,2.0,196.0,196.0,Electronic check
+Yes,No,5,Fiber optic,Month-to-month,Yes,94.45,Yes,No,1.0,2.0,94.45,188.9,Electronic check
+No,No,3,Fiber optic,Month-to-month,Yes,105.0,Yes,Yes,2.0,2.0,210.0,210.0,Electronic check
+Yes,No,26,Fiber optic,Month-to-month,Yes,93.85,Yes,Yes,2.0,1.0,187.7,93.85,Electronic check
+Yes,No,8,Fiber optic,Month-to-month,Yes,84.0,Yes,Yes,0.0,1.0,0.0,84.0,Electronic check
+Yes,No,9,DSL,Month-to-month,Yes,48.75,Yes,No,1.0,2.0,48.75,97.5,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,84.85,Yes,No,1.0,1.0,84.85,84.85,Electronic check
+No,No,12,DSL,Month-to-month,No,56.65,Yes,No,2.0,0.0,113.3,0.0,Mailed check
+No,No,42,DSL,One year,No,73.9,Yes,No,4.0,1.0,295.6,73.9,Automatic
+Yes,Yes,33,No,Two year,Yes,24.5,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,31,Fiber optic,Month-to-month,Yes,89.9,Yes,No,1.0,1.0,89.9,89.9,Electronic check
+Yes,No,18,Fiber optic,Month-to-month,No,78.55,Yes,Yes,0.0,1.0,0.0,78.55,Electronic check
+Yes,No,42,Fiber optic,Month-to-month,Yes,99.45,Yes,No,3.0,1.0,298.35,99.45,Electronic check
+No,No,4,DSL,Month-to-month,Yes,25.2,Yes,Yes,0.0,0.0,0.0,0.0,Automatic
+No,No,12,DSL,One year,No,74.05,Yes,No,1.0,2.0,74.05,148.1,Mailed check
+No,No,15,DSL,Month-to-month,No,55.0,Yes,Yes,1.0,0.0,55.0,0.0,Automatic
+Yes,Yes,7,Fiber optic,Month-to-month,Yes,89.75,Yes,No,2.0,1.0,179.5,89.75,Electronic check
+Yes,No,14,Fiber optic,Month-to-month,Yes,85.15,Yes,No,0.0,1.0,0.0,85.15,Electronic check
+Yes,No,3,Fiber optic,Month-to-month,Yes,94.6,Yes,Yes,0.0,2.0,0.0,189.2,Electronic check
+No,No,16,Fiber optic,Month-to-month,Yes,94.25,Yes,No,1.0,2.0,94.25,188.5,Electronic check
+Yes,Yes,65,DSL,One year,No,72.45,Yes,No,3.0,1.0,217.35000000000002,72.45,Automatic
+No,No,42,Fiber optic,Month-to-month,Yes,105.2,Yes,No,2.0,2.0,210.4,210.4,Electronic check
+Yes,No,6,Fiber optic,Month-to-month,Yes,82.85,Yes,No,0.0,1.0,0.0,82.85,Electronic check
+Yes,No,53,Fiber optic,Month-to-month,Yes,103.85,Yes,Yes,2.0,2.0,207.7,207.7,Electronic check
+Yes,Yes,5,Fiber optic,Month-to-month,Yes,83.6,Yes,No,1.0,1.0,83.6,83.6,Electronic check
+No,No,68,Fiber optic,One year,No,108.45,Yes,No,3.0,2.0,325.35,216.9,Electronic check
+Yes,No,3,Fiber optic,Month-to-month,Yes,91.5,Yes,No,1.0,1.0,91.5,91.5,Automatic
+Yes,No,12,Fiber optic,Month-to-month,No,80.85,Yes,No,2.0,0.0,161.7,0.0,Automatic
+No,No,43,DSL,Month-to-month,Yes,49.05,Yes,No,1.0,2.0,49.05,98.1,Automatic
+Yes,No,68,Fiber optic,Month-to-month,Yes,105.3,Yes,Yes,2.0,2.0,210.6,210.6,Electronic check
+No,No,25,Fiber optic,Month-to-month,Yes,88.95,Yes,Yes,1.0,1.0,88.95,88.95,Electronic check
+Yes,No,66,Fiber optic,One year,Yes,110.85,Yes,Yes,3.0,2.0,332.54999999999995,221.7,Electronic check
+Yes,Yes,70,Fiber optic,Two year,Yes,114.2,Yes,No,4.0,2.0,456.8,228.4,Automatic
+Yes,No,27,DSL,Month-to-month,No,36.5,Yes,Yes,0.0,1.0,0.0,36.5,Automatic
+No,No,1,Fiber optic,Month-to-month,No,70.75,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,3,DSL,Month-to-month,Yes,40.15,Yes,No,1.0,1.0,40.15,40.15,Mailed check
+Yes,No,29,Fiber optic,Month-to-month,Yes,94.45,Yes,Yes,0.0,2.0,0.0,188.9,Electronic check
+Yes,Yes,36,Fiber optic,Month-to-month,Yes,97.35,Yes,No,2.0,1.0,194.7,97.35,Automatic
+No,No,1,DSL,Month-to-month,Yes,45.3,Yes,No,0.0,2.0,0.0,90.6,Mailed check
+No,No,2,Fiber optic,Month-to-month,No,94.95,Yes,No,1.0,2.0,94.95,189.9,Electronic check
+No,Yes,12,DSL,Month-to-month,Yes,44.55,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,1,DSL,Month-to-month,Yes,23.45,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,DSL,Month-to-month,No,29.7,Yes,No,1.0,0.0,29.7,0.0,Mailed check
+Yes,No,59,Fiber optic,Month-to-month,No,101.1,Yes,No,1.0,2.0,101.1,202.2,Electronic check
+No,No,3,DSL,Month-to-month,Yes,50.65,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,DSL,Month-to-month,Yes,55.4,Yes,No,0.0,1.0,0.0,55.4,Electronic check
+Yes,No,1,Fiber optic,Month-to-month,Yes,90.6,Yes,Yes,1.0,1.0,90.6,90.6,Electronic check
+Yes,No,2,Fiber optic,Month-to-month,Yes,86.85,Yes,Yes,0.0,1.0,0.0,86.85,Mailed check
+Yes,No,29,Fiber optic,Month-to-month,Yes,99.05,Yes,Yes,1.0,2.0,99.05,198.1,Automatic
+No,No,52,Fiber optic,One year,Yes,111.25,Yes,No,3.0,2.0,333.75,222.5,Automatic
+No,No,2,DSL,Month-to-month,Yes,55.1,Yes,No,2.0,0.0,110.2,0.0,Mailed check
+Yes,No,13,Fiber optic,Month-to-month,Yes,102.25,Yes,No,1.0,2.0,102.25,204.5,Automatic
+No,No,19,Fiber optic,Month-to-month,Yes,95.9,Yes,Yes,1.0,2.0,95.9,191.8,Automatic
+No,No,47,Fiber optic,Month-to-month,Yes,95.05,Yes,Yes,2.0,1.0,190.1,95.05,Electronic check
+No,No,5,DSL,Month-to-month,No,53.85,Yes,No,2.0,0.0,107.7,0.0,Automatic
+Yes,No,52,Fiber optic,Month-to-month,Yes,104.2,Yes,Yes,2.0,2.0,208.4,208.4,Electronic check
+Yes,No,42,DSL,Month-to-month,Yes,50.25,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,25,Fiber optic,Month-to-month,Yes,99.5,Yes,No,2.0,2.0,199.0,199.0,Electronic check
+No,No,9,Fiber optic,Month-to-month,No,71.0,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,16,Fiber optic,Month-to-month,Yes,93.2,Yes,No,2.0,1.0,186.4,93.2,Automatic
+Yes,No,5,No,Month-to-month,No,19.35,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,3,No,Month-to-month,No,19.85,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,31,Fiber optic,Month-to-month,Yes,104.2,Yes,No,2.0,2.0,208.4,208.4,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,79.25,Yes,No,0.0,1.0,0.0,79.25,Electronic check
+No,No,1,DSL,Month-to-month,Yes,44.9,Yes,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,10,Fiber optic,Month-to-month,Yes,70.1,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,4,DSL,Month-to-month,Yes,29.65,Yes,No,1.0,0.0,29.65,0.0,Electronic check
+No,No,43,Fiber optic,Month-to-month,Yes,77.85,Yes,No,1.0,0.0,77.85,0.0,Electronic check
+No,No,4,DSL,Month-to-month,No,54.3,Yes,No,0.0,1.0,0.0,54.3,Electronic check
+No,No,11,Fiber optic,Month-to-month,Yes,95.15,Yes,Yes,0.0,2.0,0.0,190.3,Automatic
+Yes,No,47,Fiber optic,One year,Yes,110.85,Yes,No,3.0,2.0,332.54999999999995,221.7,Automatic
+No,No,1,Fiber optic,Month-to-month,No,80.5,Yes,No,0.0,1.0,0.0,80.5,Electronic check
+No,No,4,Fiber optic,Month-to-month,Yes,72.2,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,17,DSL,Month-to-month,No,51.5,Yes,No,1.0,0.0,51.5,0.0,Mailed check
+No,No,43,Fiber optic,Month-to-month,Yes,89.55,Yes,Yes,0.0,2.0,0.0,179.1,Mailed check
+Yes,Yes,21,DSL,One year,No,77.5,Yes,No,3.0,1.0,232.5,77.5,Mailed check
+Yes,No,42,Fiber optic,Month-to-month,Yes,95.25,Yes,No,2.0,1.0,190.5,95.25,Automatic
+No,No,46,Fiber optic,Month-to-month,No,85.0,Yes,Yes,1.0,1.0,85.0,85.0,Electronic check
+Yes,Yes,5,Fiber optic,Month-to-month,Yes,85.75,Yes,No,1.0,1.0,85.75,85.75,Electronic check
+No,No,6,Fiber optic,Month-to-month,Yes,98.25,Yes,Yes,1.0,2.0,98.25,196.5,Electronic check
+No,No,1,DSL,Month-to-month,Yes,25.7,Yes,Yes,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,7,Fiber optic,Month-to-month,Yes,69.0,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,2,DSL,Month-to-month,No,46.05,Yes,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,1,Fiber optic,Month-to-month,Yes,76.4,Yes,Yes,1.0,0.0,76.4,0.0,Mailed check
+No,No,5,Fiber optic,Month-to-month,Yes,100.5,Yes,No,1.0,2.0,100.5,201.0,Electronic check
+Yes,Yes,22,DSL,Month-to-month,No,40.05,Yes,Yes,1.0,1.0,40.05,40.05,Mailed check
+No,No,1,Fiber optic,Month-to-month,No,69.95,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,Yes,1,Fiber optic,Month-to-month,Yes,93.3,Yes,No,0.0,2.0,0.0,186.6,Electronic check
+No,No,3,DSL,Month-to-month,Yes,49.15,Yes,No,1.0,0.0,49.15,0.0,Electronic check
+No,No,1,DSL,Month-to-month,No,35.05,Yes,No,0.0,1.0,0.0,35.05,Mailed check
+No,No,1,Fiber optic,Month-to-month,Yes,73.0,Yes,Yes,1.0,0.0,73.0,0.0,Electronic check
+No,No,33,Fiber optic,Month-to-month,Yes,83.85,Yes,Yes,2.0,0.0,167.7,0.0,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,70.1,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,2,Fiber optic,Month-to-month,Yes,70.65,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,2,No,Month-to-month,No,20.35,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,3,Fiber optic,Month-to-month,Yes,99.0,Yes,No,2.0,2.0,198.0,198.0,Automatic
+No,No,26,Fiber optic,Month-to-month,Yes,83.95,Yes,No,0.0,1.0,0.0,83.95,Electronic check
+No,No,67,Fiber optic,Two year,No,116.2,Yes,No,4.0,2.0,464.8,232.4,Automatic
+Yes,No,71,Fiber optic,Two year,Yes,93.7,Yes,No,0.0,2.0,0.0,187.4,Automatic
+No,No,1,No,Month-to-month,No,19.7,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,5,Fiber optic,Month-to-month,No,75.55,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,9,Fiber optic,Month-to-month,Yes,77.65,Yes,No,0.0,1.0,0.0,77.65,Automatic
+No,No,26,Fiber optic,Month-to-month,Yes,95.0,Yes,Yes,2.0,1.0,190.0,95.0,Electronic check
+No,No,54,Fiber optic,One year,Yes,105.4,Yes,No,3.0,2.0,316.20000000000005,210.8,Automatic
+No,No,2,Fiber optic,Month-to-month,Yes,95.85,Yes,No,1.0,2.0,95.85,191.7,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,79.15,Yes,No,1.0,0.0,79.15,0.0,Electronic check
+Yes,No,30,No,Month-to-month,No,19.65,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,4,Fiber optic,Month-to-month,Yes,79.0,Yes,No,0.0,1.0,0.0,79.0,Electronic check
+Yes,Yes,17,Fiber optic,Month-to-month,No,91.85,Yes,No,2.0,1.0,183.7,91.85,Electronic check
+No,No,60,Fiber optic,One year,Yes,106.0,Yes,Yes,2.0,2.0,212.0,212.0,Electronic check
+No,Yes,1,DSL,Month-to-month,Yes,49.9,Yes,No,1.0,0.0,49.9,0.0,Mailed check
+No,No,13,Fiber optic,Month-to-month,Yes,100.35,Yes,No,1.0,2.0,100.35,200.7,Electronic check
+Yes,No,38,Fiber optic,Month-to-month,Yes,74.95,Yes,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,1,DSL,Month-to-month,Yes,49.25,Yes,Yes,1.0,0.0,49.25,0.0,Automatic
+Yes,Yes,50,Fiber optic,Month-to-month,No,103.7,Yes,No,2.0,2.0,207.4,207.4,Electronic check
+Yes,No,65,Fiber optic,One year,No,89.75,Yes,No,3.0,0.0,269.25,0.0,Electronic check
+No,No,1,No,Month-to-month,Yes,20.3,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,7,Fiber optic,Month-to-month,Yes,101.95,Yes,Yes,1.0,2.0,101.95,203.9,Electronic check
+No,No,2,Fiber optic,Month-to-month,Yes,94.0,Yes,Yes,0.0,2.0,0.0,188.0,Electronic check
+No,No,45,Fiber optic,Month-to-month,Yes,89.3,Yes,No,1.0,1.0,89.3,89.3,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,74.3,Yes,No,1.0,0.0,74.3,0.0,Automatic
+No,No,1,DSL,Month-to-month,Yes,44.65,Yes,No,2.0,1.0,89.3,44.65,Mailed check
+Yes,Yes,13,Fiber optic,Month-to-month,No,84.05,Yes,No,1.0,1.0,84.05,84.05,Electronic check
+No,No,10,Fiber optic,Month-to-month,Yes,80.7,Yes,No,1.0,0.0,80.7,0.0,Automatic
+No,Yes,4,Fiber optic,Month-to-month,Yes,101.7,Yes,No,1.0,2.0,101.7,203.4,Electronic check
+No,No,1,No,Month-to-month,No,20.4,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,41,Fiber optic,One year,Yes,102.6,Yes,No,2.0,2.0,205.2,205.2,Electronic check
+Yes,Yes,71,Fiber optic,Two year,Yes,106.0,Yes,No,2.0,2.0,212.0,212.0,Automatic
+No,Yes,3,DSL,Month-to-month,Yes,55.1,Yes,No,2.0,0.0,110.2,0.0,Mailed check
+No,No,69,Fiber optic,Two year,Yes,106.5,Yes,No,2.0,2.0,213.0,213.0,Automatic
+Yes,Yes,32,Fiber optic,Month-to-month,Yes,91.05,Yes,No,1.0,1.0,91.05,91.05,Automatic
+Yes,No,51,Fiber optic,Month-to-month,Yes,77.5,Yes,Yes,1.0,0.0,77.5,0.0,Electronic check
+Yes,No,72,DSL,Two year,Yes,54.2,Yes,No,2.0,2.0,108.4,108.4,Electronic check
+No,No,6,Fiber optic,Month-to-month,Yes,69.25,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,DSL,Month-to-month,Yes,50.5,Yes,No,1.0,0.0,50.5,0.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,74.4,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,Yes,31,DSL,One year,Yes,79.45,Yes,No,2.0,2.0,158.9,158.9,Mailed check
+No,No,58,Fiber optic,One year,Yes,104.65,Yes,No,2.0,2.0,209.3,209.3,Electronic check
+Yes,No,47,Fiber optic,Month-to-month,Yes,100.05,Yes,Yes,1.0,2.0,100.05,200.1,Electronic check
+No,No,44,Fiber optic,Month-to-month,No,100.55,Yes,No,2.0,2.0,201.1,201.1,Electronic check
+No,No,2,Fiber optic,Month-to-month,No,95.65,Yes,No,1.0,2.0,95.65,191.3,Electronic check
+No,No,1,Fiber optic,Month-to-month,No,94.4,Yes,No,1.0,2.0,94.4,188.8,Electronic check
+No,No,1,DSL,Month-to-month,Yes,55.0,Yes,No,0.0,1.0,0.0,55.0,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,101.45,Yes,No,1.0,2.0,101.45,202.9,Electronic check
+Yes,No,5,DSL,Month-to-month,No,67.95,Yes,No,2.0,1.0,135.9,67.95,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,69.5,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,No,Month-to-month,Yes,18.85,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,Fiber optic,Month-to-month,Yes,69.2,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,69.65,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,40,Fiber optic,Month-to-month,No,101.85,Yes,Yes,1.0,2.0,101.85,203.7,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,82.3,Yes,No,2.0,0.0,164.6,0.0,Electronic check
+No,No,3,Fiber optic,Month-to-month,No,79.25,Yes,No,0.0,1.0,0.0,79.25,Electronic check
+No,No,13,Fiber optic,Month-to-month,Yes,84.6,Yes,No,0.0,1.0,0.0,84.6,Electronic check
+Yes,Yes,58,Fiber optic,Month-to-month,Yes,93.4,Yes,No,2.0,1.0,186.8,93.4,Automatic
+Yes,Yes,42,Fiber optic,Month-to-month,Yes,94.2,Yes,No,0.0,2.0,0.0,188.4,Electronic check
+Yes,No,1,DSL,Month-to-month,No,25.05,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,29,DSL,Month-to-month,Yes,25.1,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,1,DSL,Month-to-month,No,48.95,Yes,No,1.0,0.0,48.95,0.0,Electronic check
+No,No,1,DSL,Month-to-month,No,45.3,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,2,Fiber optic,Month-to-month,Yes,85.85,Yes,No,1.0,1.0,85.85,85.85,Electronic check
+No,Yes,10,Fiber optic,Month-to-month,No,95.2,Yes,No,0.0,2.0,0.0,190.4,Electronic check
+No,Yes,49,Fiber optic,One year,Yes,100.6,Yes,No,1.0,2.0,100.6,201.2,Automatic
+Yes,Yes,6,DSL,Month-to-month,Yes,55.3,Yes,No,2.0,0.0,110.6,0.0,Mailed check
+No,No,2,Fiber optic,Month-to-month,Yes,74.85,Yes,Yes,0.0,0.0,0.0,0.0,Mailed check
+No,No,35,Fiber optic,One year,Yes,102.35,Yes,No,2.0,2.0,204.7,204.7,Automatic
+Yes,No,70,Fiber optic,One year,No,115.65,Yes,No,4.0,2.0,462.6,231.3,Automatic
+No,No,2,Fiber optic,Month-to-month,Yes,79.85,Yes,No,2.0,0.0,159.7,0.0,Electronic check
+No,No,15,Fiber optic,Month-to-month,Yes,76.0,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,42,Fiber optic,Month-to-month,Yes,104.75,Yes,Yes,2.0,2.0,209.5,209.5,Automatic
+No,No,9,DSL,Month-to-month,Yes,74.65,Yes,No,2.0,2.0,149.3,149.3,Electronic check
+No,No,1,DSL,Month-to-month,Yes,56.25,Yes,No,0.0,1.0,0.0,56.25,Electronic check
+Yes,No,21,Fiber optic,Month-to-month,Yes,106.1,Yes,No,2.0,2.0,212.2,212.2,Electronic check
+No,No,2,Fiber optic,Month-to-month,Yes,79.75,Yes,Yes,0.0,1.0,0.0,79.75,Automatic
+No,No,1,Fiber optic,Month-to-month,No,68.65,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,16,No,Month-to-month,No,20.25,Yes,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,14,Fiber optic,Month-to-month,Yes,100.2,Yes,Yes,1.0,2.0,100.2,200.4,Electronic check
+Yes,Yes,15,Fiber optic,Month-to-month,Yes,74.9,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,70.85,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,2,Fiber optic,Month-to-month,Yes,69.8,Yes,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,55,DSL,Month-to-month,Yes,54.55,Yes,No,2.0,2.0,109.1,109.1,Automatic
+No,No,7,DSL,Month-to-month,Yes,70.75,Yes,No,1.0,2.0,70.75,141.5,Automatic
+Yes,No,13,Fiber optic,Month-to-month,No,94.1,Yes,No,2.0,1.0,188.2,94.1,Electronic check
+Yes,Yes,3,DSL,Month-to-month,No,29.7,Yes,No,1.0,0.0,29.7,0.0,Automatic
+No,No,66,Fiber optic,One year,No,110.9,Yes,Yes,3.0,2.0,332.70000000000005,221.8,Automatic
+Yes,No,38,Fiber optic,Month-to-month,Yes,105.0,Yes,No,2.0,2.0,210.0,210.0,Electronic check
+No,Yes,1,DSL,Month-to-month,Yes,25.3,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,22,DSL,One year,Yes,55.15,Yes,No,2.0,0.0,110.3,0.0,Automatic
+No,No,1,No,Month-to-month,Yes,20.1,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,1,Fiber optic,Month-to-month,Yes,69.9,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,43,Fiber optic,Month-to-month,Yes,101.4,Yes,No,1.0,2.0,101.4,202.8,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,80.8,Yes,No,0.0,1.0,0.0,80.8,Electronic check
+No,No,2,DSL,Month-to-month,No,62.05,Yes,No,0.0,1.0,0.0,62.05,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,76.45,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,12,Fiber optic,Month-to-month,Yes,91.3,Yes,Yes,1.0,1.0,91.3,91.3,Electronic check
+Yes,No,6,Fiber optic,Month-to-month,Yes,95.75,Yes,Yes,1.0,2.0,95.75,191.5,Electronic check
+Yes,No,34,DSL,Month-to-month,No,62.65,Yes,No,3.0,0.0,187.95,0.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,74.5,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,10,Fiber optic,Month-to-month,Yes,102.1,Yes,No,2.0,2.0,204.2,204.2,Automatic
+No,No,16,DSL,Month-to-month,Yes,50.15,Yes,No,1.0,0.0,50.15,0.0,Electronic check
+Yes,No,7,Fiber optic,Month-to-month,Yes,86.5,Yes,No,0.0,1.0,0.0,86.5,Electronic check
+No,No,27,Fiber optic,Month-to-month,Yes,81.45,Yes,Yes,1.0,0.0,81.45,0.0,Electronic check
+Yes,No,1,Fiber optic,Month-to-month,Yes,69.15,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,9,Fiber optic,Month-to-month,Yes,79.55,Yes,No,0.0,1.0,0.0,79.55,Electronic check
+No,Yes,48,Fiber optic,Two year,Yes,95.5,Yes,No,3.0,1.0,286.5,95.5,Mailed check
+No,No,3,Fiber optic,Month-to-month,No,91.05,Yes,Yes,1.0,1.0,91.05,91.05,Electronic check
+Yes,No,2,Fiber optic,Month-to-month,No,79.2,Yes,Yes,1.0,0.0,79.2,0.0,Electronic check
+No,No,2,DSL,Month-to-month,Yes,45.25,Yes,No,0.0,2.0,0.0,90.5,Electronic check
+No,No,14,Fiber optic,Month-to-month,Yes,74.3,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,3,Fiber optic,Month-to-month,Yes,74.1,Yes,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,57,Fiber optic,Month-to-month,No,100.6,Yes,Yes,1.0,2.0,100.6,201.2,Electronic check
+No,No,3,Fiber optic,Month-to-month,No,75.0,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,64,DSL,Two year,Yes,70.2,Yes,Yes,3.0,1.0,210.60000000000002,70.2,Automatic
+No,No,2,Fiber optic,Month-to-month,No,70.75,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,12,DSL,Month-to-month,No,50.25,Yes,No,1.0,0.0,50.25,0.0,Automatic
+No,No,40,Fiber optic,Month-to-month,Yes,79.2,Yes,Yes,2.0,0.0,158.4,0.0,Automatic
+No,No,12,Fiber optic,Month-to-month,Yes,96.0,Yes,No,1.0,2.0,96.0,192.0,Electronic check
+No,No,54,Fiber optic,Month-to-month,Yes,100.1,Yes,No,1.0,2.0,100.1,200.2,Electronic check
+Yes,Yes,4,DSL,Month-to-month,No,56.5,Yes,No,2.0,0.0,113.0,0.0,Mailed check
+No,No,1,Fiber optic,Month-to-month,Yes,85.0,Yes,Yes,1.0,1.0,85.0,85.0,Electronic check
+Yes,Yes,51,DSL,One year,No,59.3,Yes,No,3.0,2.0,177.89999999999998,118.6,Electronic check
+No,Yes,4,DSL,Month-to-month,Yes,49.4,Yes,No,1.0,0.0,49.4,0.0,Electronic check
+No,No,35,DSL,Month-to-month,No,55.0,Yes,No,0.0,1.0,0.0,55.0,Mailed check
+No,No,1,Fiber optic,Month-to-month,Yes,69.2,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,38,DSL,One year,Yes,62.3,Yes,No,2.0,1.0,124.6,62.3,Mailed check
+Yes,No,37,Fiber optic,Month-to-month,Yes,92.5,Yes,Yes,0.0,2.0,0.0,185.0,Electronic check
+No,Yes,3,Fiber optic,Month-to-month,No,69.65,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,61,Fiber optic,Two year,Yes,111.6,Yes,No,3.0,2.0,334.79999999999995,223.2,Automatic
+No,No,11,DSL,Month-to-month,No,48.55,Yes,No,1.0,0.0,48.55,0.0,Automatic
+No,No,1,No,Month-to-month,Yes,20.2,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,19,DSL,Month-to-month,Yes,39.65,Yes,No,1.0,1.0,39.65,39.65,Electronic check
+No,No,56,No,One year,No,24.9,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,2,DSL,Month-to-month,No,56.7,Yes,No,1.0,0.0,56.7,0.0,Mailed check
+Yes,No,14,Fiber optic,One year,No,105.95,Yes,No,3.0,2.0,317.85,211.9,Mailed check
+Yes,No,4,Fiber optic,Month-to-month,No,74.95,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,15,DSL,Month-to-month,Yes,29.7,Yes,No,1.0,0.0,29.7,0.0,Electronic check
+Yes,No,1,DSL,Month-to-month,Yes,50.35,Yes,No,1.0,2.0,50.35,100.7,Electronic check
+Yes,No,64,DSL,Two year,No,47.85,Yes,No,3.0,1.0,143.55,47.85,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,70.3,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,55,Fiber optic,Month-to-month,Yes,98.8,Yes,Yes,1.0,2.0,98.8,197.6,Electronic check
+No,No,18,Fiber optic,Month-to-month,Yes,99.85,Yes,No,1.0,2.0,99.85,199.7,Automatic
+Yes,No,32,Fiber optic,Month-to-month,Yes,80.3,Yes,Yes,0.0,1.0,0.0,80.3,Automatic
+No,No,66,Fiber optic,Month-to-month,Yes,80.45,Yes,Yes,1.0,0.0,80.45,0.0,Automatic
+No,No,7,Fiber optic,Month-to-month,Yes,86.8,Yes,No,0.0,1.0,0.0,86.8,Electronic check
+Yes,No,6,Fiber optic,Month-to-month,Yes,84.2,Yes,Yes,1.0,1.0,84.2,84.2,Electronic check
+No,No,13,Fiber optic,Month-to-month,Yes,99.0,Yes,No,1.0,2.0,99.0,198.0,Mailed check
+No,No,11,Fiber optic,Month-to-month,Yes,100.75,Yes,No,1.0,2.0,100.75,201.5,Electronic check
+Yes,No,9,Fiber optic,Month-to-month,No,91.75,Yes,No,3.0,0.0,275.25,0.0,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,79.55,Yes,No,1.0,0.0,79.55,0.0,Mailed check
+No,No,54,Fiber optic,Month-to-month,No,111.1,Yes,No,3.0,2.0,333.29999999999995,222.2,Electronic check
+Yes,Yes,25,Fiber optic,Month-to-month,Yes,89.1,Yes,No,1.0,1.0,89.1,89.1,Electronic check
+No,No,37,Fiber optic,Month-to-month,Yes,101.9,Yes,No,2.0,2.0,203.8,203.8,Automatic
+Yes,Yes,14,Fiber optic,Month-to-month,Yes,91.65,Yes,No,1.0,1.0,91.65,91.65,Electronic check
+No,No,4,Fiber optic,Month-to-month,Yes,88.85,Yes,Yes,1.0,1.0,88.85,88.85,Electronic check
+No,No,3,DSL,Month-to-month,No,25.3,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,95.45,Yes,No,0.0,2.0,0.0,190.9,Electronic check
+No,No,13,Fiber optic,Month-to-month,Yes,91.1,Yes,No,0.0,2.0,0.0,182.2,Electronic check
+Yes,Yes,45,DSL,One year,Yes,54.15,Yes,No,2.0,0.0,108.3,0.0,Automatic
+No,No,1,Fiber optic,Month-to-month,No,69.7,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,6,Fiber optic,Month-to-month,Yes,89.5,Yes,No,0.0,2.0,0.0,179.0,Electronic check
+Yes,No,3,DSL,Month-to-month,Yes,35.15,Yes,No,0.0,1.0,0.0,35.15,Electronic check
+No,Yes,12,Fiber optic,Month-to-month,Yes,73.75,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,8,Fiber optic,Month-to-month,No,101.35,Yes,Yes,1.0,2.0,101.35,202.7,Electronic check
+Yes,Yes,6,DSL,Month-to-month,No,55.9,Yes,No,2.0,0.0,111.8,0.0,Automatic
+Yes,No,3,Fiber optic,Month-to-month,Yes,105.9,Yes,Yes,2.0,2.0,211.8,211.8,Electronic check
+No,No,1,DSL,Month-to-month,No,43.95,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,DSL,Month-to-month,Yes,45.1,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,41,Fiber optic,Month-to-month,No,70.25,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,9,DSL,Month-to-month,No,55.35,Yes,No,0.0,1.0,0.0,55.35,Electronic check
+Yes,No,43,Fiber optic,Month-to-month,Yes,103.0,Yes,Yes,2.0,2.0,206.0,206.0,Electronic check
+Yes,No,33,Fiber optic,One year,Yes,103.75,Yes,No,3.0,2.0,311.25,207.5,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,69.35,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,56,Fiber optic,Month-to-month,Yes,73.85,Yes,No,1.0,0.0,73.85,0.0,Electronic check
+Yes,No,3,Fiber optic,Month-to-month,Yes,75.15,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,69.6,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,5,Fiber optic,Month-to-month,Yes,80.15,Yes,No,1.0,0.0,80.15,0.0,Electronic check
+Yes,Yes,1,DSL,Month-to-month,No,30.5,Yes,No,1.0,0.0,30.5,0.0,Automatic
+Yes,Yes,70,Fiber optic,Two year,No,98.3,Yes,No,1.0,2.0,98.3,196.6,Automatic
+No,No,48,Fiber optic,Month-to-month,Yes,107.4,Yes,No,2.0,2.0,214.8,214.8,Automatic
+No,No,13,Fiber optic,Month-to-month,Yes,82.0,Yes,Yes,0.0,1.0,0.0,82.0,Electronic check
+Yes,No,24,Fiber optic,Month-to-month,Yes,75.4,Yes,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,27,Fiber optic,Month-to-month,Yes,101.25,Yes,Yes,2.0,2.0,202.5,202.5,Electronic check
+No,No,25,Fiber optic,Month-to-month,Yes,89.5,Yes,Yes,1.0,1.0,89.5,89.5,Electronic check
+No,No,22,Fiber optic,Month-to-month,Yes,74.4,Yes,Yes,0.0,0.0,0.0,0.0,Automatic
+No,No,1,No,Month-to-month,No,20.5,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,4,Fiber optic,Month-to-month,Yes,74.35,Yes,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,18,Fiber optic,Month-to-month,No,99.75,Yes,Yes,1.0,2.0,99.75,199.5,Automatic
+No,No,56,Fiber optic,One year,Yes,111.95,Yes,Yes,3.0,2.0,335.85,223.9,Electronic check
+No,No,16,DSL,Month-to-month,Yes,39.0,Yes,Yes,1.0,1.0,39.0,39.0,Mailed check
+Yes,No,30,Fiber optic,Month-to-month,Yes,94.1,Yes,No,2.0,1.0,188.2,94.1,Automatic
+No,No,8,Fiber optic,Month-to-month,No,95.65,Yes,No,0.0,2.0,0.0,191.3,Automatic
+Yes,No,50,Fiber optic,Month-to-month,Yes,88.05,Yes,Yes,1.0,1.0,88.05,88.05,Electronic check
+Yes,Yes,41,DSL,One year,Yes,66.5,Yes,No,2.0,1.0,133.0,66.5,Automatic
+No,No,3,DSL,Month-to-month,Yes,35.45,Yes,No,2.0,0.0,70.9,0.0,Mailed check
+No,No,3,DSL,Month-to-month,Yes,49.9,Yes,No,1.0,0.0,49.9,0.0,Mailed check
+No,No,40,Fiber optic,Month-to-month,Yes,104.5,Yes,No,2.0,2.0,209.0,209.0,Automatic
+No,No,3,Fiber optic,Month-to-month,Yes,75.05,Yes,Yes,0.0,0.0,0.0,0.0,Automatic
+No,No,23,Fiber optic,Month-to-month,Yes,81.0,Yes,No,1.0,0.0,81.0,0.0,Electronic check
+Yes,No,1,Fiber optic,Month-to-month,Yes,74.45,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,4,DSL,Month-to-month,Yes,60.4,Yes,No,3.0,0.0,181.2,0.0,Mailed check
+Yes,Yes,1,Fiber optic,Month-to-month,Yes,70.65,Yes,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,12,DSL,One year,Yes,59.8,Yes,No,1.0,1.0,59.8,59.8,Electronic check
+No,No,9,DSL,Month-to-month,Yes,44.2,Yes,No,0.0,0.0,0.0,0.0,Automatic
+No,No,1,Fiber optic,Month-to-month,Yes,75.75,Yes,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,67,Fiber optic,Month-to-month,Yes,102.95,Yes,No,3.0,1.0,308.85,102.95,Automatic
+Yes,No,4,Fiber optic,Month-to-month,Yes,74.4,Yes,Yes,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,62,Fiber optic,Month-to-month,Yes,89.8,No,Yes,1.0,1.0,89.8,89.8,Automatic
+No,Yes,22,No,Month-to-month,Yes,20.55,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,11,DSL,Month-to-month,No,64.05,No,No,2.0,1.0,128.1,64.05,Automatic
+Yes,No,7,Fiber optic,Month-to-month,Yes,74.85,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,3,DSL,Month-to-month,No,25.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,58,No,Two year,No,20.3,No,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,6,No,Month-to-month,No,26.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,22,DSL,Month-to-month,Yes,54.7,No,No,2.0,0.0,109.4,0.0,Mailed check
+Yes,Yes,64,Fiber optic,One year,No,90.25,No,No,1.0,1.0,90.25,90.25,Automatic
+No,No,6,No,Month-to-month,No,20.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,39,No,One year,No,25.45,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,20,No,One year,No,19.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,64,DSL,One year,Yes,66.15,No,No,1.0,1.0,66.15,66.15,Automatic
+Yes,No,46,DSL,Month-to-month,Yes,69.1,No,No,1.0,2.0,69.1,138.2,Automatic
+Yes,Yes,28,DSL,One year,Yes,39.1,No,Yes,1.0,1.0,39.1,39.1,Electronic check
+Yes,No,33,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,39,DSL,One year,No,59.8,No,No,3.0,0.0,179.39999999999998,0.0,Electronic check
+No,No,1,DSL,Month-to-month,Yes,48.6,No,No,1.0,0.0,48.6,0.0,Electronic check
+Yes,No,70,Fiber optic,Two year,No,105.35,No,Yes,3.0,2.0,316.04999999999995,210.7,Automatic
+No,No,65,No,Two year,Yes,25.1,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,1,DSL,Month-to-month,No,49.75,No,No,1.0,0.0,49.75,0.0,Electronic check
+Yes,No,18,Fiber optic,Month-to-month,Yes,94.75,No,No,0.0,2.0,0.0,189.5,Electronic check
+Yes,No,24,Fiber optic,Month-to-month,Yes,93.0,No,No,0.0,2.0,0.0,186.0,Electronic check
+No,No,63,DSL,Two year,Yes,71.9,No,No,3.0,1.0,215.70000000000002,71.9,Automatic
+No,Yes,44,DSL,One year,Yes,77.55,No,No,1.0,2.0,77.55,155.1,Mailed check
+No,No,4,No,Month-to-month,Yes,19.85,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,37,Fiber optic,Month-to-month,Yes,95.25,No,No,0.0,2.0,0.0,190.5,Electronic check
+No,No,34,DSL,Month-to-month,Yes,25.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,35,DSL,One year,No,53.15,No,No,2.0,2.0,106.3,106.3,Automatic
+Yes,No,4,No,Month-to-month,No,20.15,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,39,Fiber optic,Month-to-month,Yes,101.25,No,Yes,1.0,2.0,101.25,202.5,Electronic check
+Yes,No,43,Fiber optic,One year,Yes,100.55,No,Yes,2.0,2.0,201.1,201.1,Automatic
+Yes,No,61,No,Two year,No,25.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,49,DSL,One year,No,71.8,No,No,3.0,1.0,215.39999999999998,71.8,Electronic check
+No,No,4,No,One year,No,19.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,64,DSL,Two year,No,49.85,No,No,3.0,1.0,149.55,49.85,Electronic check
+No,No,3,Fiber optic,Month-to-month,Yes,69.6,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,1,No,Month-to-month,No,19.75,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,40,Fiber optic,One year,No,80.8,No,No,2.0,0.0,161.6,0.0,Electronic check
+Yes,No,34,DSL,One year,No,64.2,No,Yes,2.0,1.0,128.4,64.2,Automatic
+Yes,No,1,DSL,Month-to-month,No,35.0,No,No,0.0,1.0,0.0,35.0,Electronic check
+Yes,Yes,45,No,Two year,No,19.2,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,43,Fiber optic,One year,Yes,90.65,No,No,4.0,0.0,362.6,0.0,Automatic
+Yes,Yes,41,No,Two year,Yes,20.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,5,Fiber optic,Month-to-month,Yes,74.65,No,No,1.0,0.0,74.65,0.0,Electronic check
+No,No,72,DSL,Two year,Yes,61.2,No,No,3.0,2.0,183.60000000000002,122.4,Automatic
+No,No,4,No,One year,No,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,9,DSL,Month-to-month,No,54.8,No,No,2.0,0.0,109.6,0.0,Mailed check
+Yes,No,72,DSL,Two year,Yes,73.45,No,Yes,1.0,2.0,73.45,146.9,Automatic
+Yes,No,33,DSL,One year,Yes,51.45,No,No,1.0,0.0,51.45,0.0,Mailed check
+Yes,No,72,Fiber optic,Two year,No,80.45,No,No,1.0,0.0,80.45,0.0,Automatic
+No,No,15,Fiber optic,Month-to-month,No,85.3,No,No,1.0,1.0,85.3,85.3,Electronic check
+Yes,No,29,Fiber optic,Month-to-month,Yes,79.3,No,Yes,1.0,0.0,79.3,0.0,Electronic check
+Yes,Yes,15,DSL,Month-to-month,No,76.5,No,No,3.0,2.0,229.5,153.0,Automatic
+No,No,72,No,Two year,No,25.4,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,No,19,Fiber optic,Month-to-month,Yes,86.85,No,No,0.0,1.0,0.0,86.85,Electronic check
+No,No,1,No,Month-to-month,No,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,2,DSL,Month-to-month,No,45.55,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,11,Fiber optic,Month-to-month,Yes,78.1,No,Yes,1.0,0.0,78.1,0.0,Automatic
+No,No,12,No,One year,No,19.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,70,Fiber optic,Two year,Yes,110.5,No,No,3.0,2.0,331.5,221.0,Electronic check
+No,No,23,No,Month-to-month,Yes,20.3,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,49,DSL,Two year,No,81.35,No,Yes,4.0,1.0,325.4,81.35,Automatic
+No,Yes,2,DSL,Month-to-month,Yes,55.3,No,No,0.0,1.0,0.0,55.3,Electronic check
+Yes,No,69,DSL,Two year,No,56.55,No,Yes,2.0,2.0,113.1,113.1,Automatic
+Yes,Yes,24,No,Two year,Yes,19.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,32,Fiber optic,One year,Yes,104.05,No,No,2.0,2.0,208.1,208.1,Automatic
+No,No,27,DSL,Two year,No,52.85,No,No,2.0,0.0,105.7,0.0,Automatic
+No,No,58,Fiber optic,Month-to-month,No,80.65,No,No,1.0,0.0,80.65,0.0,Automatic
+Yes,Yes,18,No,Two year,Yes,24.65,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,47,No,Two year,Yes,21.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,70,Fiber optic,Two year,Yes,110.2,No,No,3.0,2.0,330.6,220.4,Electronic check
+Yes,Yes,36,DSL,Month-to-month,No,51.05,No,No,1.0,0.0,51.05,0.0,Automatic
+No,No,67,No,Two year,Yes,19.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,10,No,Month-to-month,Yes,19.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,19,Fiber optic,Month-to-month,Yes,87.3,No,Yes,1.0,1.0,87.3,87.3,Electronic check
+Yes,Yes,71,No,Two year,No,19.85,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,72,DSL,Two year,Yes,89.4,No,No,4.0,2.0,357.6,178.8,Mailed check
+Yes,Yes,48,No,Two year,No,20.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,18,DSL,Month-to-month,No,83.25,No,No,3.0,2.0,249.75,166.5,Electronic check
+Yes,No,67,Fiber optic,Two year,No,102.9,No,Yes,2.0,2.0,205.8,205.8,Automatic
+Yes,Yes,69,DSL,Two year,No,39.1,No,No,3.0,0.0,117.30000000000001,0.0,Mailed check
+Yes,No,72,Fiber optic,Two year,Yes,114.5,No,Yes,4.0,2.0,458.0,229.0,Mailed check
+No,No,38,No,Two year,No,20.2,No,Yes,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,40,DSL,One year,No,55.8,No,Yes,0.0,1.0,0.0,55.8,Electronic check
+Yes,Yes,61,No,Two year,Yes,24.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,32,DSL,One year,Yes,72.8,No,No,2.0,1.0,145.6,72.8,Automatic
+No,No,21,Fiber optic,Month-to-month,Yes,99.85,No,No,1.0,2.0,99.85,199.7,Automatic
+No,No,59,Fiber optic,One year,Yes,99.5,No,Yes,1.0,2.0,99.5,199.0,Electronic check
+No,No,47,No,Two year,No,20.25,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,69,No,Two year,Yes,26.0,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,2,No,Month-to-month,Yes,19.9,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,22,No,Month-to-month,No,19.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,15,Fiber optic,Month-to-month,Yes,96.5,No,Yes,2.0,1.0,193.0,96.5,Electronic check
+No,No,53,No,Two year,No,19.85,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,28,No,Month-to-month,No,25.7,No,Yes,0.0,0.0,0.0,0.0,Mailed check
+No,No,22,No,One year,No,20.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,16,Fiber optic,Month-to-month,Yes,91.55,No,Yes,2.0,1.0,183.1,91.55,Electronic check
+Yes,Yes,48,DSL,Two year,No,39.4,No,No,3.0,0.0,118.19999999999999,0.0,Mailed check
+Yes,No,30,Fiber optic,Month-to-month,Yes,105.7,No,Yes,4.0,1.0,422.8,105.7,Automatic
+No,No,3,Fiber optic,Month-to-month,Yes,70.25,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,57,Fiber optic,Two year,No,93.75,No,Yes,2.0,1.0,187.5,93.75,Electronic check
+Yes,No,23,DSL,One year,No,60.0,No,No,1.0,1.0,60.0,60.0,Automatic
+Yes,No,65,DSL,Two year,Yes,59.8,No,No,1.0,1.0,59.8,59.8,Automatic
+Yes,No,44,Fiber optic,One year,Yes,90.65,No,No,0.0,2.0,0.0,181.3,Automatic
+Yes,Yes,71,Fiber optic,Two year,Yes,109.0,No,No,3.0,2.0,327.0,218.0,Automatic
+Yes,No,37,DSL,One year,No,68.1,No,No,3.0,0.0,204.29999999999998,0.0,Automatic
+No,No,12,No,Month-to-month,No,20.4,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,69,DSL,Two year,Yes,81.95,No,No,3.0,2.0,245.85000000000002,163.9,Automatic
+No,No,35,DSL,Month-to-month,No,60.55,No,No,3.0,0.0,181.64999999999998,0.0,Electronic check
+No,No,5,DSL,Month-to-month,Yes,65.6,No,No,2.0,1.0,131.2,65.6,Automatic
+Yes,Yes,58,Fiber optic,Two year,No,82.5,No,No,0.0,1.0,0.0,82.5,Automatic
+Yes,No,72,DSL,Two year,Yes,82.3,No,No,4.0,1.0,329.2,82.3,Automatic
+Yes,No,72,DSL,Two year,No,68.15,No,No,4.0,0.0,272.6,0.0,Mailed check
+No,No,1,No,Month-to-month,No,20.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,53,No,One year,No,20.2,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,27,Fiber optic,Month-to-month,Yes,89.2,No,No,2.0,1.0,178.4,89.2,Electronic check
+Yes,No,18,Fiber optic,Month-to-month,No,74.8,No,No,1.0,0.0,74.8,0.0,Electronic check
+Yes,Yes,46,No,Two year,Yes,20.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,72,DSL,Two year,Yes,84.4,No,No,3.0,2.0,253.20000000000002,168.8,Automatic
+Yes,No,4,DSL,Month-to-month,Yes,25.15,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,25,No,Two year,No,19.8,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,40,DSL,Month-to-month,Yes,50.85,No,No,1.0,2.0,50.85,101.7,Electronic check
+Yes,No,63,Fiber optic,Month-to-month,Yes,102.4,No,No,2.0,2.0,204.8,204.8,Electronic check
+No,No,14,DSL,Month-to-month,Yes,55.5,No,No,1.0,0.0,55.5,0.0,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,109.75,No,Yes,3.0,2.0,329.25,219.5,Automatic
+No,No,39,Fiber optic,Month-to-month,Yes,106.4,No,No,2.0,2.0,212.8,212.8,Electronic check
+Yes,Yes,47,DSL,Two year,Yes,60.0,No,No,3.0,2.0,180.0,120.0,Automatic
+Yes,No,19,Fiber optic,Month-to-month,Yes,88.8,No,No,3.0,0.0,266.4,0.0,Automatic
+No,No,17,Fiber optic,Month-to-month,No,80.05,No,No,1.0,0.0,80.05,0.0,Automatic
+Yes,No,34,Fiber optic,Month-to-month,Yes,75.55,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,42,DSL,Month-to-month,Yes,49.55,No,No,1.0,0.0,49.55,0.0,Electronic check
+Yes,Yes,71,No,Two year,No,23.9,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,19,DSL,Month-to-month,No,66.4,No,Yes,2.0,1.0,132.8,66.4,Automatic
+No,No,57,No,Two year,No,18.8,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,108.4,No,No,3.0,2.0,325.20000000000005,216.8,Electronic check
+No,No,6,Fiber optic,Month-to-month,Yes,85.95,No,No,1.0,1.0,85.95,85.95,Mailed check
+Yes,No,61,DSL,Two year,No,80.9,No,No,2.0,2.0,161.8,161.8,Automatic
+Yes,Yes,48,Fiber optic,Two year,No,111.8,No,No,4.0,2.0,447.2,223.6,Automatic
+No,No,16,No,Month-to-month,Yes,20.6,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,3,DSL,Month-to-month,No,44.6,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,65,Fiber optic,Two year,No,105.1,No,No,2.0,2.0,210.2,210.2,Automatic
+Yes,Yes,70,Fiber optic,Two year,Yes,115.15,No,No,4.0,2.0,460.6,230.3,Automatic
+Yes,No,60,DSL,One year,Yes,59.8,No,No,1.0,1.0,59.8,59.8,Mailed check
+Yes,No,69,No,One year,Yes,26.3,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,35,Fiber optic,Month-to-month,No,70.55,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,22,No,Month-to-month,Yes,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,66,DSL,Two year,No,79.85,No,No,2.0,2.0,159.7,159.7,Automatic
+Yes,Yes,34,Fiber optic,Month-to-month,Yes,90.05,No,No,1.0,1.0,90.05,90.05,Automatic
+Yes,Yes,72,No,Two year,No,24.45,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,31,DSL,One year,No,59.95,No,No,3.0,2.0,179.85000000000002,119.9,Electronic check
+No,Yes,30,No,One year,No,25.35,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,19,DSL,Month-to-month,Yes,34.3,No,Yes,2.0,0.0,68.6,0.0,Automatic
+Yes,No,65,Fiber optic,Month-to-month,Yes,105.05,No,No,2.0,2.0,210.1,210.1,Electronic check
+Yes,Yes,30,No,Two year,No,19.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,6,No,One year,No,19.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,2,DSL,Month-to-month,No,51.4,No,No,1.0,2.0,51.4,102.8,Electronic check
+Yes,Yes,53,DSL,Month-to-month,No,71.85,No,No,2.0,1.0,143.7,71.85,Electronic check
+Yes,No,7,Fiber optic,Month-to-month,Yes,75.4,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,61,DSL,One year,Yes,49.7,No,No,1.0,0.0,49.7,0.0,Automatic
+No,No,13,DSL,Month-to-month,Yes,78.75,No,No,2.0,2.0,157.5,157.5,Electronic check
+Yes,No,35,Fiber optic,One year,Yes,81.6,No,Yes,1.0,0.0,81.6,0.0,Automatic
+Yes,No,2,Fiber optic,Month-to-month,Yes,70.4,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,3,Fiber optic,Month-to-month,No,76.1,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,62,Fiber optic,One year,Yes,94.0,No,No,0.0,2.0,0.0,188.0,Automatic
+Yes,Yes,72,Fiber optic,Two year,No,103.95,No,No,4.0,1.0,415.8,103.95,Automatic
+Yes,No,63,No,Two year,Yes,19.95,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,35,Fiber optic,One year,Yes,110.8,No,Yes,4.0,2.0,443.2,221.6,Automatic
+Yes,No,62,Fiber optic,One year,No,96.1,No,No,2.0,1.0,192.2,96.1,Electronic check
+No,No,15,DSL,Month-to-month,Yes,48.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,55,DSL,Month-to-month,Yes,50.55,No,No,1.0,0.0,50.55,0.0,Automatic
+No,No,11,DSL,Month-to-month,Yes,44.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,61,No,One year,No,19.45,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,71,DSL,Two year,No,89.3,No,No,4.0,2.0,357.2,178.6,Automatic
+No,No,35,No,Two year,No,19.25,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,17,Fiber optic,Month-to-month,No,70.5,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,47,No,Two year,No,19.65,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,3,No,Month-to-month,No,20.85,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,3,No,Month-to-month,Yes,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,44,No,Two year,Yes,19.35,No,Yes,0.0,0.0,0.0,0.0,Automatic
+No,No,1,DSL,Month-to-month,Yes,44.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,44,Fiber optic,One year,No,94.4,No,No,2.0,1.0,188.8,94.4,Electronic check
+No,No,18,Fiber optic,Month-to-month,Yes,75.4,No,No,1.0,0.0,75.4,0.0,Electronic check
+Yes,No,65,DSL,Two year,No,71.0,No,No,3.0,1.0,213.0,71.0,Automatic
+No,No,3,No,One year,No,21.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,33,DSL,Two year,Yes,61.05,No,No,3.0,0.0,183.14999999999998,0.0,Mailed check
+No,No,34,DSL,One year,Yes,79.95,No,No,3.0,2.0,239.85000000000002,159.9,Automatic
+Yes,Yes,14,No,Two year,Yes,19.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,13,No,Month-to-month,Yes,20.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,23,No,One year,No,24.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,47,No,Two year,No,19.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,17,DSL,Month-to-month,Yes,50.3,No,No,1.0,0.0,50.3,0.0,Mailed check
+Yes,No,59,DSL,Month-to-month,Yes,50.25,No,Yes,1.0,2.0,50.25,100.5,Electronic check
+No,No,69,DSL,Two year,Yes,85.35,No,No,3.0,2.0,256.04999999999995,170.7,Automatic
+No,No,10,DSL,Month-to-month,Yes,51.65,No,No,1.0,0.0,51.65,0.0,Mailed check
+Yes,Yes,12,No,Two year,Yes,24.0,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,39,DSL,Month-to-month,Yes,59.85,No,No,1.0,1.0,59.85,59.85,Mailed check
+Yes,No,71,No,Two year,No,25.45,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,71,No,Two year,No,23.9,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,33,No,One year,No,24.15,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,67,Fiber optic,Month-to-month,Yes,75.7,No,Yes,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,9,DSL,Month-to-month,No,50.85,No,No,1.0,0.0,50.85,0.0,Mailed check
+Yes,No,52,Fiber optic,Two year,Yes,91.6,No,No,3.0,0.0,274.79999999999995,0.0,Automatic
+No,No,70,Fiber optic,One year,No,98.9,No,No,1.0,2.0,98.9,197.8,Electronic check
+No,No,1,Fiber optic,Month-to-month,Yes,85.0,No,No,1.0,1.0,85.0,85.0,Electronic check
+No,No,1,DSL,Month-to-month,Yes,44.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,52,Fiber optic,One year,Yes,80.2,No,No,1.0,0.0,80.2,0.0,Mailed check
+No,No,6,DSL,Month-to-month,No,60.9,No,No,1.0,1.0,60.9,60.9,Mailed check
+Yes,No,7,DSL,Month-to-month,No,34.2,No,No,2.0,0.0,68.4,0.0,Mailed check
+No,No,26,Fiber optic,One year,Yes,87.15,No,No,3.0,0.0,261.45000000000005,0.0,Automatic
+Yes,Yes,25,DSL,Month-to-month,No,54.3,No,No,2.0,0.0,108.6,0.0,Electronic check
+No,No,69,No,Two year,Yes,19.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,72,Fiber optic,Two year,Yes,112.75,No,No,4.0,2.0,451.0,225.5,Automatic
+No,No,4,No,Month-to-month,Yes,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,59,No,Two year,No,19.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,67,DSL,Two year,No,65.55,No,No,2.0,1.0,131.1,65.55,Automatic
+No,No,26,Fiber optic,Month-to-month,Yes,78.8,No,Yes,0.0,1.0,0.0,78.8,Electronic check
+No,No,27,DSL,One year,No,78.2,No,No,3.0,2.0,234.60000000000002,156.4,Mailed check
+Yes,Yes,72,Fiber optic,Two year,No,105.25,No,No,2.0,2.0,210.5,210.5,Automatic
+No,No,6,Fiber optic,Month-to-month,Yes,89.25,No,No,2.0,1.0,178.5,89.25,Electronic check
+Yes,Yes,62,No,Two year,No,20.65,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,20,DSL,One year,Yes,68.7,No,No,2.0,1.0,137.4,68.7,Electronic check
+No,No,6,DSL,Month-to-month,No,78.65,No,No,3.0,2.0,235.95000000000002,157.3,Automatic
+No,No,51,No,Two year,No,24.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,61,No,Two year,No,19.75,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,62,Fiber optic,Month-to-month,Yes,89.1,No,Yes,3.0,0.0,267.29999999999995,0.0,Electronic check
+No,No,72,Fiber optic,Two year,Yes,84.7,No,No,2.0,0.0,169.4,0.0,Automatic
+No,No,13,DSL,Month-to-month,Yes,59.9,No,Yes,1.0,1.0,59.9,59.9,Electronic check
+Yes,Yes,38,No,Two year,Yes,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,34,Fiber optic,Month-to-month,Yes,108.9,No,Yes,3.0,2.0,326.70000000000005,217.8,Electronic check
+No,No,18,DSL,Month-to-month,No,33.6,No,No,2.0,0.0,67.2,0.0,Mailed check
+Yes,Yes,56,Fiber optic,One year,Yes,85.85,No,No,3.0,0.0,257.54999999999995,0.0,Mailed check
+No,No,36,DSL,Month-to-month,Yes,34.85,No,No,2.0,0.0,69.7,0.0,Automatic
+Yes,Yes,57,Fiber optic,Month-to-month,Yes,95.3,No,Yes,3.0,1.0,285.9,95.3,Automatic
+Yes,No,70,Fiber optic,Two year,No,84.6,No,No,3.0,0.0,253.79999999999998,0.0,Automatic
+No,No,68,DSL,Month-to-month,No,44.95,No,No,2.0,1.0,89.9,44.95,Electronic check
+No,Yes,1,DSL,Month-to-month,Yes,24.7,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,37,Fiber optic,Month-to-month,No,100.3,No,No,1.0,2.0,100.3,200.6,Automatic
+No,Yes,4,No,Month-to-month,Yes,25.45,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,DSL,Month-to-month,Yes,50.7,No,No,1.0,0.0,50.7,0.0,Mailed check
+No,No,20,DSL,Month-to-month,Yes,55.0,No,No,4.0,1.0,220.0,55.0,Automatic
+Yes,Yes,72,DSL,Two year,No,68.4,No,No,3.0,1.0,205.20000000000002,68.4,Automatic
+Yes,No,11,DSL,Month-to-month,Yes,55.05,No,No,0.0,1.0,0.0,55.05,Automatic
+Yes,Yes,33,No,Two year,No,19.8,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,62,Fiber optic,One year,No,84.45,No,Yes,0.0,1.0,0.0,84.45,Electronic check
+No,No,1,DSL,Month-to-month,No,35.9,No,No,2.0,0.0,71.8,0.0,Mailed check
+Yes,No,16,Fiber optic,Month-to-month,No,80.75,No,No,2.0,0.0,161.5,0.0,Automatic
+Yes,Yes,22,DSL,One year,Yes,78.65,No,No,2.0,2.0,157.3,157.3,Mailed check
+Yes,Yes,49,DSL,Month-to-month,No,61.75,No,No,3.0,0.0,185.25,0.0,Automatic
+Yes,Yes,36,DSL,One year,Yes,63.7,No,No,2.0,1.0,127.4,63.7,Automatic
+No,No,31,Fiber optic,Month-to-month,No,87.6,No,No,3.0,0.0,262.79999999999995,0.0,Electronic check
+Yes,No,5,Fiber optic,Month-to-month,Yes,89.15,No,No,1.0,1.0,89.15,89.15,Electronic check
+Yes,Yes,66,No,Two year,No,20.0,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,64,Fiber optic,Two year,Yes,104.4,No,No,2.0,2.0,208.8,208.8,Automatic
+Yes,Yes,10,No,Month-to-month,Yes,20.05,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,29,DSL,Month-to-month,No,34.3,No,No,2.0,0.0,68.6,0.0,Electronic check
+No,No,57,No,Two year,No,20.65,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,46,Fiber optic,Month-to-month,No,84.25,No,No,2.0,0.0,168.5,0.0,Mailed check
+No,No,53,No,Two year,No,19.65,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,17,DSL,One year,No,79.85,No,No,3.0,2.0,239.54999999999998,159.7,Automatic
+Yes,Yes,38,No,Two year,Yes,20.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,15,No,One year,No,19.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,22,DSL,Month-to-month,Yes,50.35,No,No,1.0,2.0,50.35,100.7,Electronic check
+Yes,No,57,DSL,One year,No,74.6,No,No,3.0,1.0,223.79999999999998,74.6,Automatic
+No,No,11,Fiber optic,Month-to-month,Yes,79.15,No,Yes,0.0,1.0,0.0,79.15,Automatic
+Yes,Yes,1,No,Two year,No,20.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,12,No,Two year,No,21.05,No,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,36,Fiber optic,Month-to-month,Yes,94.7,No,No,1.0,2.0,94.7,189.4,Electronic check
+No,No,2,Fiber optic,Month-to-month,No,74.95,No,No,1.0,0.0,74.95,0.0,Electronic check
+Yes,Yes,72,Fiber optic,Two year,No,111.95,No,No,4.0,2.0,447.8,223.9,Automatic
+No,No,62,No,Two year,No,19.85,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,6,Fiber optic,Month-to-month,Yes,89.75,No,No,1.0,1.0,89.75,89.75,Electronic check
+Yes,No,48,No,Two year,Yes,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,35,Fiber optic,Two year,Yes,108.95,No,No,3.0,2.0,326.85,217.9,Electronic check
+No,Yes,52,No,One year,No,19.65,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,1,DSL,Month-to-month,Yes,24.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,71,DSL,Two year,No,93.2,No,No,4.0,2.0,372.8,186.4,Automatic
+Yes,Yes,67,Fiber optic,One year,No,84.8,No,No,3.0,0.0,254.39999999999998,0.0,Automatic
+No,No,60,DSL,One year,Yes,71.75,No,Yes,2.0,1.0,143.5,71.75,Electronic check
+Yes,Yes,23,DSL,Month-to-month,Yes,30.35,No,No,1.0,0.0,30.35,0.0,Automatic
+No,Yes,39,DSL,One year,No,54.85,No,No,2.0,2.0,109.7,109.7,Automatic
+Yes,Yes,15,No,One year,Yes,19.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,24,No,Two year,No,24.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,37,No,Month-to-month,No,19.35,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,50,Fiber optic,One year,Yes,100.65,No,Yes,1.0,2.0,100.65,201.3,Electronic check
+No,No,54,Fiber optic,One year,Yes,94.1,No,No,1.0,2.0,94.1,188.2,Automatic
+No,No,3,Fiber optic,Month-to-month,Yes,74.55,No,No,1.0,0.0,74.55,0.0,Electronic check
+No,No,5,DSL,Month-to-month,No,56.15,No,No,2.0,0.0,112.3,0.0,Electronic check
+No,No,33,No,Two year,No,20.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,41,DSL,One year,Yes,80.55,No,No,2.0,2.0,161.1,161.1,Electronic check
+Yes,Yes,34,DSL,One year,No,61.25,No,No,3.0,2.0,183.75,122.5,Mailed check
+Yes,Yes,13,No,Month-to-month,Yes,20.45,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,20,No,Month-to-month,Yes,18.9,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,51,No,Two year,No,19.6,No,Yes,0.0,0.0,0.0,0.0,Automatic
+No,Yes,41,DSL,Month-to-month,No,45.2,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,13,No,Month-to-month,No,19.45,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,35,No,Two year,No,25.45,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,4,Fiber optic,Month-to-month,Yes,94.9,No,No,3.0,1.0,284.70000000000005,94.9,Mailed check
+Yes,Yes,12,DSL,Month-to-month,Yes,29.3,No,Yes,1.0,0.0,29.3,0.0,Mailed check
+No,No,7,No,One year,No,20.25,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,53,Fiber optic,One year,No,110.5,No,No,4.0,2.0,442.0,221.0,Electronic check
+No,No,63,Fiber optic,Month-to-month,Yes,109.4,No,Yes,3.0,2.0,328.20000000000005,218.8,Automatic
+No,No,5,No,Month-to-month,No,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,37,No,One year,No,19.6,No,Yes,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,12,Fiber optic,Month-to-month,Yes,76.6,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,38,No,One year,No,19.6,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,9,Fiber optic,Month-to-month,Yes,85.3,No,No,1.0,1.0,85.3,85.3,Automatic
+Yes,No,13,DSL,Month-to-month,Yes,65.85,No,No,1.0,1.0,65.85,65.85,Electronic check
+Yes,Yes,47,No,Two year,No,20.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,61,Fiber optic,Month-to-month,No,99.4,No,No,3.0,1.0,298.20000000000005,99.4,Automatic
+No,No,16,No,Month-to-month,No,20.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,41,DSL,Two year,No,78.45,No,No,3.0,2.0,235.35000000000002,156.9,Electronic check
+No,Yes,43,No,Two year,Yes,25.1,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,6,DSL,Month-to-month,Yes,55.0,No,No,0.0,1.0,0.0,55.0,Electronic check
+No,No,58,DSL,One year,Yes,71.1,No,No,4.0,0.0,284.4,0.0,Automatic
+No,No,19,DSL,Month-to-month,Yes,61.55,No,No,1.0,1.0,61.55,61.55,Automatic
+Yes,No,11,DSL,Month-to-month,Yes,45.9,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,39,DSL,One year,Yes,40.3,No,No,3.0,0.0,120.89999999999999,0.0,Automatic
+No,No,8,Fiber optic,Month-to-month,Yes,87.1,No,Yes,1.0,1.0,87.1,87.1,Electronic check
+No,Yes,26,DSL,Month-to-month,Yes,49.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,53,Fiber optic,Month-to-month,Yes,73.8,No,Yes,1.0,0.0,73.8,0.0,Automatic
+Yes,Yes,70,No,Two year,Yes,19.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,59,No,Two year,No,25.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,7,DSL,One year,No,35.3,No,No,2.0,0.0,70.6,0.0,Mailed check
+Yes,Yes,59,DSL,One year,No,76.75,No,No,3.0,2.0,230.25,153.5,Automatic
+Yes,Yes,61,DSL,Two year,Yes,81.0,No,No,2.0,2.0,162.0,162.0,Automatic
+Yes,Yes,72,Fiber optic,Two year,Yes,105.55,No,No,2.0,2.0,211.1,211.1,Automatic
+Yes,Yes,13,No,Month-to-month,No,18.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,64,No,One year,No,24.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,10,DSL,One year,No,64.9,No,No,2.0,1.0,129.8,64.9,Mailed check
+Yes,Yes,65,DSL,One year,No,61.35,No,No,3.0,0.0,184.05,0.0,Automatic
+Yes,No,62,Fiber optic,Two year,No,113.95,No,No,4.0,2.0,455.8,227.9,Mailed check
+Yes,No,55,DSL,One year,Yes,90.15,No,No,4.0,2.0,360.6,180.3,Electronic check
+Yes,No,25,DSL,Month-to-month,No,54.1,No,No,1.0,0.0,54.1,0.0,Electronic check
+No,No,1,DSL,Month-to-month,Yes,49.8,No,No,1.0,0.0,49.8,0.0,Automatic
+Yes,Yes,64,No,Two year,Yes,24.4,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,No,36,Fiber optic,Month-to-month,Yes,95.0,No,No,0.0,2.0,0.0,190.0,Automatic
+Yes,No,61,DSL,Two year,Yes,69.9,No,No,2.0,1.0,139.8,69.9,Mailed check
+No,Yes,26,DSL,One year,Yes,39.95,No,No,1.0,1.0,39.95,39.95,Automatic
+Yes,Yes,68,Fiber optic,Two year,Yes,103.25,No,No,3.0,2.0,309.75,206.5,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,94.25,No,No,4.0,0.0,377.0,0.0,Automatic
+Yes,No,71,DSL,Two year,Yes,47.05,No,No,2.0,1.0,94.1,47.05,Electronic check
+No,No,57,No,Two year,No,20.55,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,4,No,Month-to-month,Yes,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,1,Fiber optic,Month-to-month,Yes,70.2,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,72,DSL,Two year,No,81.0,No,No,4.0,1.0,324.0,81.0,Automatic
+Yes,Yes,21,DSL,One year,Yes,75.9,No,No,1.0,2.0,75.9,151.8,Automatic
+Yes,Yes,71,No,Two year,No,24.7,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,69,Fiber optic,Two year,No,110.25,No,Yes,3.0,2.0,330.75,220.5,Automatic
+Yes,No,64,DSL,Two year,Yes,85.0,No,No,3.0,2.0,255.0,170.0,Automatic
+No,No,16,No,Month-to-month,No,19.75,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,4,No,One year,No,23.9,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,No,Month-to-month,No,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,18,DSL,Month-to-month,No,25.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,2,DSL,Month-to-month,No,54.15,No,No,1.0,0.0,54.15,0.0,Mailed check
+Yes,No,19,DSL,Month-to-month,Yes,59.8,No,No,1.0,1.0,59.8,59.8,Mailed check
+No,No,40,Fiber optic,Month-to-month,No,83.85,No,No,0.0,1.0,0.0,83.85,Automatic
+Yes,Yes,66,Fiber optic,One year,Yes,104.9,No,Yes,2.0,2.0,209.8,209.8,Electronic check
+No,No,21,Fiber optic,Month-to-month,No,75.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,8,DSL,Month-to-month,Yes,66.65,No,No,2.0,1.0,133.3,66.65,Electronic check
+Yes,Yes,72,Fiber optic,Two year,Yes,109.5,No,No,4.0,2.0,438.0,219.0,Automatic
+No,No,48,DSL,One year,Yes,73.85,No,No,3.0,1.0,221.54999999999998,73.85,Automatic
+No,No,69,No,Two year,Yes,19.3,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,72,Fiber optic,Two year,Yes,118.2,No,No,4.0,2.0,472.8,236.4,Electronic check
+No,No,14,DSL,One year,No,51.45,No,No,1.0,0.0,51.45,0.0,Automatic
+No,No,6,DSL,Month-to-month,No,59.45,No,No,1.0,1.0,59.45,59.45,Electronic check
+Yes,Yes,8,No,Two year,No,19.5,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,17,No,One year,No,19.55,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,65,Fiber optic,One year,No,93.55,No,No,2.0,1.0,187.1,93.55,Electronic check
+Yes,Yes,57,DSL,One year,Yes,59.3,No,No,3.0,0.0,177.89999999999998,0.0,Mailed check
+Yes,No,56,Fiber optic,One year,No,109.8,No,No,3.0,2.0,329.4,219.6,Automatic
+Yes,No,14,Fiber optic,Month-to-month,Yes,78.1,No,No,0.0,1.0,0.0,78.1,Electronic check
+Yes,No,52,DSL,Month-to-month,Yes,39.9,No,No,1.0,1.0,39.9,39.9,Electronic check
+No,No,58,DSL,Two year,Yes,64.9,No,No,4.0,0.0,259.6,0.0,Automatic
+No,No,67,DSL,Month-to-month,Yes,53.4,No,No,2.0,2.0,106.8,106.8,Automatic
+No,No,2,DSL,Month-to-month,Yes,24.9,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,6,DSL,Month-to-month,No,44.7,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,71,Fiber optic,Two year,Yes,114.0,No,No,4.0,2.0,456.0,228.0,Automatic
+Yes,Yes,46,No,Two year,No,20.25,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,67,Fiber optic,Month-to-month,No,83.85,No,Yes,2.0,0.0,167.7,0.0,Automatic
+No,Yes,3,No,Month-to-month,No,20.2,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,3,No,Month-to-month,No,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,50,No,One year,Yes,20.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,23,Fiber optic,Month-to-month,Yes,90.0,No,Yes,2.0,1.0,180.0,90.0,Electronic check
+Yes,Yes,67,DSL,Two year,No,54.2,No,No,4.0,1.0,216.8,54.2,Automatic
+Yes,No,39,Fiber optic,One year,No,99.1,No,Yes,2.0,2.0,198.2,198.2,Mailed check
+No,No,69,DSL,Two year,Yes,66.9,No,No,3.0,0.0,200.70000000000002,0.0,Mailed check
+No,No,1,DSL,One year,No,25.85,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,32,Fiber optic,Month-to-month,No,91.05,No,No,0.0,2.0,0.0,182.1,Electronic check
+Yes,Yes,60,No,Two year,Yes,20.95,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,72,Fiber optic,Two year,Yes,109.2,No,No,3.0,2.0,327.6,218.4,Automatic
+No,No,26,Fiber optic,Month-to-month,Yes,85.8,No,Yes,1.0,1.0,85.8,85.8,Automatic
+No,No,2,No,Month-to-month,Yes,19.65,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,Yes,2,No,One year,No,20.5,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,36,DSL,One year,Yes,89.65,No,No,3.0,2.0,268.95000000000005,179.3,Automatic
+No,No,7,Fiber optic,Month-to-month,No,74.35,No,No,1.0,0.0,74.35,0.0,Mailed check
+Yes,No,60,DSL,Two year,Yes,49.45,No,Yes,1.0,2.0,49.45,98.9,Automatic
+Yes,No,19,Fiber optic,Month-to-month,Yes,89.1,No,No,1.0,1.0,89.1,89.1,Electronic check
+Yes,No,45,DSL,Two year,No,75.15,No,Yes,3.0,1.0,225.45000000000002,75.15,Automatic
+No,No,4,Fiber optic,Month-to-month,Yes,70.65,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,47,Fiber optic,Month-to-month,No,90.05,No,No,2.0,1.0,180.1,90.05,Electronic check
+No,No,1,No,Month-to-month,No,19.4,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,59,Fiber optic,Month-to-month,Yes,88.75,No,Yes,1.0,1.0,88.75,88.75,Automatic
+No,No,35,Fiber optic,Month-to-month,No,91.0,No,Yes,1.0,1.0,91.0,91.0,Automatic
+Yes,Yes,32,Fiber optic,One year,Yes,90.8,No,No,2.0,1.0,181.6,90.8,Electronic check
+Yes,No,54,No,Two year,Yes,18.95,No,Yes,0.0,0.0,0.0,0.0,Mailed check
+No,No,66,Fiber optic,Two year,Yes,102.4,No,Yes,1.0,2.0,102.4,204.8,Automatic
+Yes,Yes,61,Fiber optic,One year,Yes,99.9,No,No,1.0,2.0,99.9,199.8,Electronic check
+Yes,Yes,72,DSL,Two year,No,88.7,No,No,4.0,2.0,354.8,177.4,Automatic
+Yes,Yes,44,DSL,One year,Yes,54.3,No,No,2.0,2.0,108.6,108.6,Electronic check
+No,No,41,DSL,Month-to-month,Yes,55.7,No,No,1.0,0.0,55.7,0.0,Automatic
+Yes,No,50,Fiber optic,One year,Yes,103.95,No,No,2.0,2.0,207.9,207.9,Electronic check
+Yes,Yes,8,No,Two year,No,20.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,18,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,72,DSL,Two year,Yes,91.95,No,No,4.0,2.0,367.8,183.9,Automatic
+No,No,42,DSL,Month-to-month,No,55.65,No,Yes,1.0,0.0,55.65,0.0,Electronic check
+No,No,18,Fiber optic,Month-to-month,Yes,74.7,No,Yes,1.0,0.0,74.7,0.0,Electronic check
+No,Yes,13,Fiber optic,One year,Yes,104.15,No,No,2.0,2.0,208.3,208.3,Automatic
+Yes,Yes,68,Fiber optic,One year,Yes,83.65,No,No,2.0,0.0,167.3,0.0,Automatic
+No,No,69,Fiber optic,Two year,Yes,110.05,No,No,3.0,2.0,330.15,220.1,Automatic
+Yes,Yes,25,No,Two year,No,25.5,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,59,No,Two year,No,19.5,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,5,Fiber optic,Month-to-month,No,80.7,No,Yes,2.0,0.0,161.4,0.0,Electronic check
+Yes,Yes,69,Fiber optic,One year,Yes,105.1,No,No,4.0,1.0,420.4,105.1,Automatic
+No,No,13,DSL,Month-to-month,Yes,25.15,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,52,Fiber optic,Month-to-month,Yes,95.65,No,No,2.0,1.0,191.3,95.65,Automatic
+Yes,No,61,DSL,Two year,Yes,80.8,No,No,4.0,1.0,323.2,80.8,Automatic
+No,No,29,DSL,One year,Yes,24.85,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,25,DSL,One year,Yes,54.75,No,No,2.0,0.0,109.5,0.0,Automatic
+No,No,15,DSL,One year,No,50.75,No,No,1.0,2.0,50.75,101.5,Electronic check
+Yes,Yes,19,No,Two year,No,20.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,44,No,Two year,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,58,DSL,Two year,No,71.6,No,No,4.0,0.0,286.4,0.0,Automatic
+Yes,Yes,62,Fiber optic,One year,Yes,81.45,No,No,2.0,0.0,162.9,0.0,Automatic
+Yes,Yes,70,DSL,One year,Yes,58.4,No,No,3.0,2.0,175.2,116.8,Automatic
+Yes,Yes,10,DSL,Two year,No,53.7,No,No,4.0,1.0,214.8,53.7,Automatic
+No,No,26,No,One year,Yes,19.6,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,66,Fiber optic,Month-to-month,No,89.4,No,No,1.0,1.0,89.4,89.4,Automatic
+Yes,Yes,51,Fiber optic,One year,No,84.2,No,No,2.0,0.0,168.4,0.0,Automatic
+Yes,Yes,72,Fiber optic,Two year,Yes,106.1,No,No,4.0,1.0,424.4,106.1,Automatic
+No,No,65,No,Two year,No,25.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,70,DSL,One year,No,64.95,No,No,3.0,0.0,194.85000000000002,0.0,Automatic
+Yes,No,72,DSL,Two year,Yes,85.45,No,No,3.0,2.0,256.35,170.9,Automatic
+Yes,Yes,1,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,3,No,Month-to-month,No,20.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,58,No,Two year,Yes,25.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,33,Fiber optic,Month-to-month,Yes,100.6,No,Yes,1.0,2.0,100.6,201.2,Automatic
+Yes,No,54,Fiber optic,Month-to-month,No,74.0,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,99.4,No,No,1.0,2.0,99.4,198.8,Electronic check
+Yes,Yes,72,Fiber optic,Two year,No,107.45,No,No,4.0,1.0,429.8,107.45,Automatic
+Yes,Yes,72,DSL,Two year,Yes,83.6,No,No,3.0,2.0,250.79999999999998,167.2,Automatic
+Yes,No,54,Fiber optic,Month-to-month,Yes,99.05,No,Yes,1.0,2.0,99.05,198.1,Automatic
+Yes,No,59,DSL,One year,Yes,80.1,No,No,2.0,2.0,160.2,160.2,Electronic check
+No,No,54,DSL,Two year,Yes,65.3,No,No,2.0,1.0,130.6,65.3,Automatic
+No,No,60,Fiber optic,Two year,Yes,89.55,No,No,1.0,1.0,89.55,89.55,Electronic check
+Yes,No,60,DSL,Two year,No,60.8,No,No,3.0,2.0,182.39999999999998,121.6,Automatic
+No,No,3,Fiber optic,Month-to-month,No,74.5,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,69,Fiber optic,Two year,No,99.15,No,No,1.0,2.0,99.15,198.3,Automatic
+Yes,Yes,1,No,Month-to-month,No,19.25,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,50,DSL,Month-to-month,Yes,39.45,No,No,1.0,1.0,39.45,39.45,Automatic
+No,No,56,DSL,Month-to-month,Yes,44.85,No,No,0.0,2.0,0.0,89.7,Automatic
+Yes,No,60,Fiber optic,Two year,Yes,97.2,No,No,2.0,2.0,194.4,194.4,Electronic check
+Yes,No,69,Fiber optic,One year,Yes,110.55,No,Yes,3.0,2.0,331.65,221.1,Mailed check
+Yes,No,3,No,Month-to-month,Yes,19.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,60,DSL,Two year,No,76.95,No,No,2.0,2.0,153.9,153.9,Automatic
+No,No,13,DSL,Two year,No,35.4,No,No,2.0,0.0,70.8,0.0,Mailed check
+Yes,Yes,62,No,Two year,No,20.45,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,45,Fiber optic,One year,No,96.75,No,No,2.0,1.0,193.5,96.75,Automatic
+No,No,25,DSL,One year,No,54.2,No,No,2.0,2.0,108.4,108.4,Electronic check
+No,No,44,Fiber optic,Two year,No,100.1,No,No,2.0,2.0,200.2,200.2,Automatic
+No,No,2,DSL,Month-to-month,Yes,45.25,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,22,No,One year,No,20.85,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,35,DSL,Month-to-month,Yes,33.45,No,No,2.0,0.0,66.9,0.0,Mailed check
+Yes,Yes,29,No,Two year,No,20.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,27,Fiber optic,One year,Yes,85.9,No,Yes,2.0,0.0,171.8,0.0,Electronic check
+No,Yes,54,DSL,One year,Yes,61.0,No,No,3.0,0.0,183.0,0.0,Electronic check
+No,No,57,Fiber optic,One year,Yes,86.9,No,No,0.0,1.0,0.0,86.9,Electronic check
+No,No,62,DSL,Two year,No,69.4,No,No,4.0,0.0,277.6,0.0,Automatic
+Yes,Yes,15,No,One year,No,20.35,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,70,Fiber optic,Two year,Yes,104.3,No,No,2.0,2.0,208.6,208.6,Automatic
+Yes,Yes,21,DSL,Month-to-month,Yes,44.95,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,Yes,23,DSL,One year,Yes,49.45,No,No,1.0,0.0,49.45,0.0,Electronic check
+No,No,6,No,One year,No,20.6,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,4,No,Two year,No,19.55,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,23,Fiber optic,Month-to-month,Yes,93.5,No,No,0.0,2.0,0.0,187.0,Electronic check
+No,No,26,DSL,One year,No,54.55,No,No,2.0,2.0,109.1,109.1,Automatic
+No,Yes,8,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,2,Fiber optic,Month-to-month,Yes,79.45,No,No,1.0,0.0,79.45,0.0,Electronic check
+No,No,59,DSL,One year,No,79.85,No,No,4.0,1.0,319.4,79.85,Automatic
+Yes,Yes,39,Fiber optic,One year,No,100.0,No,No,1.0,2.0,100.0,200.0,Electronic check
+No,Yes,21,No,Two year,No,19.6,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,48,No,Two year,No,20.2,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,31,DSL,One year,Yes,50.4,No,Yes,3.0,1.0,151.2,50.4,Automatic
+Yes,Yes,64,Fiber optic,One year,No,113.35,No,No,4.0,2.0,453.4,226.7,Electronic check
+Yes,Yes,46,Fiber optic,Month-to-month,Yes,80.0,No,No,1.0,0.0,80.0,0.0,Automatic
+No,No,52,DSL,Two year,Yes,80.95,No,No,2.0,2.0,161.9,161.9,Automatic
+Yes,Yes,67,No,Two year,Yes,24.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,67,DSL,Month-to-month,No,54.9,No,Yes,1.0,0.0,54.9,0.0,Electronic check
+Yes,No,71,Fiber optic,Two year,No,109.25,No,No,3.0,2.0,327.75,218.5,Electronic check
+No,No,71,Fiber optic,One year,Yes,116.3,No,No,4.0,2.0,465.2,232.6,Automatic
+No,No,32,No,Month-to-month,No,19.9,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,2,Fiber optic,Month-to-month,No,70.35,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,71,No,Two year,No,25.6,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,60,DSL,One year,Yes,44.45,No,No,2.0,1.0,88.9,44.45,Electronic check
+No,No,55,Fiber optic,One year,Yes,100.15,No,Yes,1.0,2.0,100.15,200.3,Electronic check
+No,No,6,Fiber optic,Month-to-month,Yes,73.85,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,48,DSL,Two year,Yes,70.1,No,No,3.0,1.0,210.29999999999998,70.1,Automatic
+Yes,Yes,63,No,Two year,No,25.25,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,12,No,Month-to-month,No,21.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,54,DSL,Month-to-month,Yes,24.95,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,30,DSL,One year,Yes,64.5,No,No,2.0,1.0,129.0,64.5,Electronic check
+No,No,40,Fiber optic,One year,Yes,105.95,No,No,2.0,2.0,211.9,211.9,Automatic
+Yes,Yes,9,Fiber optic,Month-to-month,Yes,75.85,No,No,1.0,0.0,75.85,0.0,Electronic check
+No,No,62,DSL,Two year,Yes,43.6,No,No,2.0,1.0,87.2,43.6,Automatic
+No,No,28,Fiber optic,One year,Yes,91.25,No,No,2.0,1.0,182.5,91.25,Automatic
+No,No,70,DSL,Two year,No,89.75,No,No,4.0,2.0,359.0,179.5,Automatic
+No,No,46,Fiber optic,Two year,Yes,104.4,No,No,3.0,2.0,313.20000000000005,208.8,Automatic
+Yes,No,23,Fiber optic,Month-to-month,No,90.15,No,No,1.0,1.0,90.15,90.15,Mailed check
+Yes,Yes,47,DSL,One year,No,40.3,No,No,3.0,0.0,120.89999999999999,0.0,Electronic check
+Yes,Yes,68,Fiber optic,Two year,Yes,105.25,No,No,3.0,2.0,315.75,210.5,Automatic
+No,Yes,67,Fiber optic,Two year,Yes,104.0,No,No,2.0,2.0,208.0,208.0,Electronic check
+No,No,14,DSL,Month-to-month,Yes,69.65,No,No,1.0,2.0,69.65,139.3,Electronic check
+Yes,Yes,57,Fiber optic,Month-to-month,Yes,74.3,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,55,Fiber optic,One year,No,100.9,No,No,1.0,2.0,100.9,201.8,Mailed check
+No,No,1,No,Month-to-month,Yes,20.25,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,23,Fiber optic,Month-to-month,Yes,96.9,No,No,2.0,1.0,193.8,96.9,Automatic
+Yes,No,47,Fiber optic,Month-to-month,Yes,104.1,No,No,2.0,2.0,208.2,208.2,Electronic check
+No,No,38,No,One year,No,20.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,2,DSL,Month-to-month,Yes,56.55,No,Yes,1.0,0.0,56.55,0.0,Automatic
+Yes,No,15,Fiber optic,Month-to-month,Yes,68.6,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,26,Fiber optic,Month-to-month,Yes,69.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,35,No,Two year,No,19.7,No,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,3,No,Month-to-month,Yes,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,42,Fiber optic,Month-to-month,Yes,94.4,No,No,2.0,1.0,188.8,94.4,Electronic check
+Yes,No,10,DSL,Month-to-month,Yes,54.95,No,No,2.0,0.0,109.9,0.0,Automatic
+Yes,No,61,Fiber optic,One year,No,93.7,No,No,3.0,1.0,281.1,93.7,Automatic
+No,No,68,Fiber optic,Two year,No,110.25,No,No,3.0,2.0,330.75,220.5,Automatic
+No,No,10,Fiber optic,One year,Yes,98.9,No,No,2.0,2.0,197.8,197.8,Electronic check
+Yes,Yes,72,DSL,Two year,Yes,80.45,No,No,3.0,2.0,241.35000000000002,160.9,Automatic
+Yes,Yes,55,Fiber optic,Month-to-month,No,79.4,No,No,2.0,0.0,158.8,0.0,Electronic check
+No,No,7,DSL,Month-to-month,No,62.8,No,No,2.0,1.0,125.6,62.8,Automatic
+No,No,2,Fiber optic,Month-to-month,Yes,74.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,9,Fiber optic,Month-to-month,Yes,74.85,No,No,1.0,0.0,74.85,0.0,Electronic check
+No,Yes,27,No,Two year,Yes,25.85,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,64,DSL,Two year,Yes,68.3,No,No,3.0,1.0,204.89999999999998,68.3,Mailed check
+No,No,70,DSL,Two year,No,48.4,No,No,3.0,1.0,145.2,48.4,Automatic
+No,No,67,Fiber optic,Two year,Yes,105.05,No,Yes,3.0,2.0,315.15,210.1,Electronic check
+No,No,24,No,Two year,No,25.15,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,4,No,Two year,No,19.5,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,44,Fiber optic,Month-to-month,Yes,92.95,No,No,1.0,2.0,92.95,185.9,Automatic
+Yes,Yes,72,No,Two year,Yes,20.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,66,No,Two year,No,19.35,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,65,Fiber optic,Month-to-month,Yes,104.35,No,Yes,2.0,2.0,208.7,208.7,Electronic check
+No,Yes,1,No,Month-to-month,No,19.55,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,38,DSL,One year,No,74.05,No,No,4.0,1.0,296.2,74.05,Electronic check
+No,Yes,23,DSL,Two year,No,40.1,No,No,3.0,0.0,120.30000000000001,0.0,Mailed check
+Yes,No,10,No,One year,No,20.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,72,DSL,Two year,Yes,83.55,No,No,3.0,2.0,250.64999999999998,167.1,Automatic
+Yes,No,35,DSL,Month-to-month,No,56.85,No,No,2.0,0.0,113.7,0.0,Electronic check
+Yes,Yes,58,No,Two year,No,19.55,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,70,Fiber optic,One year,Yes,106.15,No,No,3.0,2.0,318.45000000000005,212.3,Electronic check
+Yes,Yes,38,DSL,One year,No,78.95,No,No,2.0,2.0,157.9,157.9,Automatic
+Yes,Yes,60,DSL,Month-to-month,Yes,49.75,No,No,1.0,2.0,49.75,99.5,Electronic check
+No,No,26,Fiber optic,Month-to-month,Yes,92.4,No,No,2.0,1.0,184.8,92.4,Automatic
+No,No,8,DSL,One year,No,58.2,No,No,3.0,0.0,174.60000000000002,0.0,Automatic
+Yes,No,36,Fiber optic,Month-to-month,Yes,91.95,No,Yes,1.0,1.0,91.95,91.95,Automatic
+No,No,54,DSL,One year,No,65.25,No,Yes,2.0,1.0,130.5,65.25,Automatic
+No,No,55,Fiber optic,Month-to-month,Yes,73.1,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,72,DSL,Two year,No,59.75,No,No,2.0,0.0,119.5,0.0,Automatic
+Yes,Yes,54,DSL,Two year,Yes,59.8,No,No,2.0,0.0,119.6,0.0,Automatic
+Yes,Yes,72,Fiber optic,Two year,Yes,116.6,No,No,4.0,2.0,466.4,233.2,Automatic
+No,No,52,Fiber optic,Two year,Yes,109.3,No,No,3.0,2.0,327.9,218.6,Electronic check
+No,No,60,Fiber optic,One year,Yes,101.4,No,Yes,1.0,2.0,101.4,202.8,Automatic
+No,No,39,DSL,Month-to-month,Yes,50.65,No,No,1.0,2.0,50.65,101.3,Automatic
+No,No,15,DSL,One year,No,56.15,No,No,0.0,1.0,0.0,56.15,Mailed check
+Yes,Yes,43,No,One year,Yes,19.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,63,DSL,One year,No,83.0,No,Yes,4.0,1.0,332.0,83.0,Automatic
+Yes,No,2,Fiber optic,Month-to-month,No,70.1,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+Yes,Yes,72,Fiber optic,Two year,Yes,108.3,No,No,4.0,2.0,433.2,216.6,Automatic
+Yes,Yes,40,No,Two year,No,25.25,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,58,DSL,One year,Yes,45.35,No,No,2.0,1.0,90.7,45.35,Electronic check
+No,No,67,DSL,Two year,No,43.9,No,No,2.0,1.0,87.8,43.9,Electronic check
+Yes,No,31,DSL,One year,Yes,79.3,No,No,2.0,2.0,158.6,158.6,Mailed check
+Yes,No,69,Fiber optic,Month-to-month,Yes,84.9,No,Yes,2.0,0.0,169.8,0.0,Automatic
+Yes,No,32,Fiber optic,One year,Yes,79.25,No,No,1.0,0.0,79.25,0.0,Electronic check
+No,No,21,DSL,Two year,No,71.05,No,No,3.0,1.0,213.14999999999998,71.05,Automatic
+No,No,52,DSL,One year,No,53.75,No,No,2.0,0.0,107.5,0.0,Electronic check
+Yes,Yes,72,No,Two year,No,24.25,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,52,DSL,One year,No,44.25,No,No,2.0,1.0,88.5,44.25,Automatic
+No,No,41,DSL,One year,No,50.05,No,No,1.0,0.0,50.05,0.0,Automatic
+No,No,41,No,Two year,No,20.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,67,DSL,One year,Yes,69.35,No,No,4.0,0.0,277.4,0.0,Automatic
+Yes,Yes,16,No,Month-to-month,No,19.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,17,No,Two year,No,19.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,35,DSL,Month-to-month,No,61.0,No,No,3.0,0.0,183.0,0.0,Mailed check
+Yes,Yes,58,No,Two year,No,20.5,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,52,DSL,Two year,No,50.2,No,No,3.0,1.0,150.60000000000002,50.2,Mailed check
+No,No,70,DSL,Two year,No,79.6,No,No,3.0,2.0,238.79999999999998,159.2,Automatic
+Yes,Yes,19,No,Two year,Yes,24.9,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,35,Fiber optic,Month-to-month,Yes,106.9,No,No,3.0,2.0,320.70000000000005,213.8,Electronic check
+No,No,32,Fiber optic,Month-to-month,Yes,101.35,No,No,1.0,2.0,101.35,202.7,Electronic check
+Yes,Yes,17,DSL,Month-to-month,Yes,55.35,No,No,2.0,0.0,110.7,0.0,Automatic
+Yes,Yes,67,DSL,One year,No,50.55,No,No,1.0,0.0,50.55,0.0,Automatic
+No,No,9,No,Month-to-month,No,19.5,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,4,Fiber optic,Month-to-month,No,90.65,No,No,1.0,1.0,90.65,90.65,Electronic check
+Yes,Yes,58,Fiber optic,One year,Yes,89.85,No,Yes,3.0,0.0,269.54999999999995,0.0,Automatic
+No,No,60,DSL,One year,No,79.0,No,No,3.0,2.0,237.0,158.0,Mailed check
+No,No,1,No,Month-to-month,No,19.55,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,27,No,Two year,No,19.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,66,Fiber optic,One year,Yes,116.25,No,Yes,4.0,2.0,465.0,232.5,Electronic check
+No,No,15,Fiber optic,Month-to-month,Yes,87.75,No,No,1.0,1.0,87.75,87.75,Automatic
+No,No,41,Fiber optic,Month-to-month,Yes,81.3,No,No,1.0,0.0,81.3,0.0,Automatic
+Yes,No,59,DSL,Month-to-month,Yes,44.3,No,No,0.0,2.0,0.0,88.6,Electronic check
+No,Yes,50,Fiber optic,Two year,No,70.35,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,17,DSL,One year,No,44.45,No,No,2.0,1.0,88.9,44.45,Automatic
+Yes,Yes,6,DSL,Month-to-month,Yes,49.15,No,No,1.0,0.0,49.15,0.0,Electronic check
+Yes,No,51,DSL,Month-to-month,Yes,29.45,No,Yes,1.0,0.0,29.45,0.0,Automatic
+Yes,No,49,Fiber optic,Month-to-month,Yes,85.3,No,No,1.0,1.0,85.3,85.3,Automatic
+Yes,No,59,DSL,One year,Yes,69.1,No,No,2.0,1.0,138.2,69.1,Mailed check
+No,No,50,DSL,Month-to-month,Yes,70.35,No,Yes,2.0,1.0,140.7,70.35,Automatic
+Yes,Yes,59,No,Two year,No,20.6,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,18,Fiber optic,Month-to-month,No,74.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,10,Fiber optic,Month-to-month,No,75.05,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,14,DSL,One year,No,44.6,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,35,No,Two year,No,21.45,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,8,DSL,One year,Yes,43.45,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,18,No,One year,No,20.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,60,Fiber optic,One year,No,94.15,No,No,2.0,1.0,188.3,94.15,Automatic
+No,No,6,No,Two year,No,19.55,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,19,DSL,Month-to-month,Yes,75.9,No,No,3.0,1.0,227.70000000000002,75.9,Mailed check
+Yes,Yes,53,DSL,One year,No,64.15,No,No,3.0,0.0,192.45000000000002,0.0,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,109.55,No,Yes,3.0,2.0,328.65,219.1,Automatic
+Yes,No,60,Fiber optic,Two year,Yes,110.8,No,No,3.0,2.0,332.4,221.6,Automatic
+No,Yes,13,DSL,Month-to-month,No,53.45,No,No,2.0,0.0,106.9,0.0,Mailed check
+Yes,Yes,5,Fiber optic,Month-to-month,No,69.95,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,13,Fiber optic,Month-to-month,No,97.0,No,No,1.0,2.0,97.0,194.0,Electronic check
+No,No,37,DSL,One year,Yes,90.6,No,No,4.0,2.0,362.4,181.2,Automatic
+Yes,No,64,Fiber optic,Month-to-month,Yes,73.55,No,No,1.0,0.0,73.55,0.0,Mailed check
+Yes,No,61,Fiber optic,Two year,Yes,94.35,No,No,2.0,1.0,188.7,94.35,Automatic
+No,No,26,No,One year,No,19.4,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,24,No,Two year,No,19.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,17,DSL,One year,No,54.6,No,No,2.0,2.0,109.2,109.2,Electronic check
+No,Yes,26,DSL,Month-to-month,Yes,29.8,No,No,1.0,0.0,29.8,0.0,Mailed check
+No,No,52,Fiber optic,Month-to-month,Yes,103.05,No,No,2.0,2.0,206.1,206.1,Electronic check
+No,No,1,No,Month-to-month,No,20.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,21,DSL,Two year,No,35.1,No,No,2.0,0.0,70.2,0.0,Mailed check
+Yes,No,67,Fiber optic,One year,Yes,105.7,No,No,2.0,2.0,211.4,211.4,Automatic
+Yes,Yes,44,DSL,Month-to-month,No,56.25,No,No,2.0,0.0,112.5,0.0,Automatic
+Yes,Yes,70,DSL,One year,No,60.35,No,No,3.0,2.0,181.05,120.7,Electronic check
+Yes,Yes,56,DSL,Two year,Yes,59.8,No,No,3.0,0.0,179.39999999999998,0.0,Automatic
+Yes,Yes,46,Fiber optic,Two year,No,99.65,No,No,3.0,1.0,298.95000000000005,99.65,Mailed check
+Yes,Yes,63,DSL,Two year,Yes,50.65,No,No,1.0,0.0,50.65,0.0,Automatic
+No,No,11,DSL,Month-to-month,Yes,60.9,No,No,3.0,0.0,182.7,0.0,Electronic check
+Yes,Yes,15,DSL,Month-to-month,Yes,59.65,No,No,2.0,0.0,119.3,0.0,Automatic
+Yes,No,72,DSL,Two year,Yes,64.7,No,No,4.0,2.0,258.8,129.4,Electronic check
+Yes,Yes,6,DSL,Month-to-month,No,54.85,No,No,0.0,1.0,0.0,54.85,Electronic check
+Yes,Yes,63,Fiber optic,One year,Yes,91.35,No,No,1.0,1.0,91.35,91.35,Electronic check
+Yes,Yes,18,No,Two year,No,25.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,43,DSL,Month-to-month,No,34.0,No,No,2.0,0.0,68.0,0.0,Automatic
+No,No,15,DSL,One year,No,45.9,No,No,4.0,0.0,183.6,0.0,Mailed check
+Yes,Yes,55,No,Two year,No,20.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,70,No,Two year,No,20.35,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,63,DSL,One year,No,36.1,No,Yes,2.0,0.0,72.2,0.0,Automatic
+No,No,25,DSL,Month-to-month,Yes,65.8,No,No,2.0,1.0,131.6,65.8,Automatic
+No,No,18,No,One year,No,20.35,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,No,28,Fiber optic,Month-to-month,Yes,105.8,No,Yes,2.0,2.0,211.6,211.6,Electronic check
+No,No,53,Fiber optic,One year,Yes,96.75,No,Yes,3.0,1.0,290.25,96.75,Mailed check
+No,No,1,DSL,Month-to-month,No,24.4,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,26,DSL,Month-to-month,Yes,73.05,No,No,2.0,2.0,146.1,146.1,Electronic check
+No,No,34,DSL,One year,No,64.35,No,No,2.0,1.0,128.7,64.35,Electronic check
+No,Yes,19,No,Two year,No,20.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,62,DSL,One year,No,54.75,No,No,2.0,0.0,109.5,0.0,Automatic
+No,No,24,DSL,Month-to-month,Yes,51.15,No,No,1.0,0.0,51.15,0.0,Electronic check
+Yes,No,68,DSL,Two year,Yes,41.95,No,Yes,3.0,0.0,125.85000000000001,0.0,Electronic check
+Yes,Yes,31,DSL,Month-to-month,No,54.35,No,No,2.0,0.0,108.7,0.0,Mailed check
+Yes,No,63,Fiber optic,One year,Yes,96.0,No,No,1.0,2.0,96.0,192.0,Electronic check
+Yes,Yes,61,DSL,Two year,Yes,61.45,No,No,3.0,2.0,184.35000000000002,122.9,Automatic
+No,No,18,No,One year,No,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,6,No,One year,No,19.0,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,33,Fiber optic,Month-to-month,Yes,100.0,No,No,1.0,2.0,100.0,200.0,Electronic check
+Yes,No,56,Fiber optic,Month-to-month,Yes,98.7,No,No,2.0,2.0,197.4,197.4,Electronic check
+No,Yes,23,No,One year,No,19.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,9,Fiber optic,Month-to-month,Yes,73.8,No,No,1.0,0.0,73.8,0.0,Electronic check
+No,No,5,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,61,Fiber optic,Month-to-month,Yes,106.2,No,No,2.0,2.0,212.4,212.4,Electronic check
+Yes,Yes,70,Fiber optic,Two year,Yes,116.55,No,No,4.0,2.0,466.2,233.1,Automatic
+No,No,15,Fiber optic,Month-to-month,Yes,99.7,No,No,1.0,2.0,99.7,199.4,Electronic check
+Yes,Yes,8,No,Two year,No,19.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,8,No,Two year,No,19.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,4,DSL,Month-to-month,Yes,29.15,No,No,1.0,0.0,29.15,0.0,Mailed check
+No,No,34,DSL,One year,No,55.0,No,No,2.0,0.0,110.0,0.0,Mailed check
+Yes,No,68,DSL,Two year,Yes,90.8,No,No,4.0,2.0,363.2,181.6,Automatic
+Yes,Yes,45,DSL,One year,No,51.0,No,No,3.0,1.0,153.0,51.0,Automatic
+No,No,9,Fiber optic,Month-to-month,Yes,90.1,No,Yes,1.0,1.0,90.1,90.1,Electronic check
+No,No,22,DSL,Month-to-month,Yes,59.05,No,No,2.0,0.0,118.1,0.0,Mailed check
+No,No,2,No,Month-to-month,No,20.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,70,DSL,Two year,No,72.95,No,No,3.0,1.0,218.85000000000002,72.95,Automatic
+No,Yes,10,DSL,One year,No,73.55,No,No,3.0,1.0,220.64999999999998,73.55,Automatic
+No,No,72,DSL,Two year,No,84.3,No,No,3.0,2.0,252.89999999999998,168.6,Automatic
+Yes,Yes,49,DSL,One year,No,78.0,No,No,2.0,2.0,156.0,156.0,Automatic
+No,No,54,DSL,One year,No,72.1,No,Yes,2.0,1.0,144.2,72.1,Mailed check
+No,No,71,Fiber optic,Two year,Yes,106.75,No,No,3.0,2.0,320.25,213.5,Automatic
+No,No,22,No,One year,Yes,19.25,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,50,No,Two year,No,20.55,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,43,No,One year,No,20.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,45,No,Two year,Yes,24.65,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,64,Fiber optic,Month-to-month,Yes,103.5,No,Yes,2.0,2.0,207.0,207.0,Automatic
+Yes,Yes,23,No,Two year,No,23.85,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,68,No,Two year,No,25.8,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,26,DSL,One year,No,59.45,No,No,1.0,1.0,59.45,59.45,Automatic
+No,No,14,No,Month-to-month,Yes,20.05,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,71,DSL,Two year,Yes,82.55,No,No,3.0,2.0,247.64999999999998,165.1,Electronic check
+No,No,64,DSL,One year,No,81.25,No,No,4.0,1.0,325.0,81.25,Electronic check
+No,No,57,DSL,Two year,Yes,74.3,No,No,4.0,1.0,297.2,74.3,Automatic
+Yes,No,72,Fiber optic,Two year,No,109.7,No,Yes,3.0,2.0,329.1,219.4,Automatic
+Yes,Yes,40,Fiber optic,Month-to-month,Yes,96.35,No,No,2.0,1.0,192.7,96.35,Automatic
+Yes,No,14,DSL,Month-to-month,Yes,66.6,No,No,1.0,1.0,66.6,66.6,Automatic
+Yes,Yes,2,DSL,Month-to-month,Yes,44.5,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,5,Fiber optic,Month-to-month,Yes,80.1,No,No,0.0,1.0,0.0,80.1,Mailed check
+Yes,Yes,29,DSL,One year,No,69.05,No,No,2.0,1.0,138.1,69.05,Automatic
+No,No,3,No,Month-to-month,No,20.4,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,71,No,Two year,No,19.7,No,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,9,DSL,Month-to-month,Yes,50.1,No,No,1.0,0.0,50.1,0.0,Electronic check
+No,No,48,DSL,One year,Yes,83.45,No,No,3.0,2.0,250.35000000000002,166.9,Automatic
+No,No,26,Fiber optic,Month-to-month,Yes,86.65,No,No,2.0,0.0,173.3,0.0,Automatic
+No,No,9,No,Month-to-month,No,20.15,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,46,No,Two year,No,19.4,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,64,DSL,Two year,Yes,60.05,No,No,3.0,2.0,180.14999999999998,120.1,Automatic
+Yes,No,59,No,One year,No,20.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,7,Fiber optic,One year,Yes,94.05,No,No,1.0,2.0,94.05,188.1,Mailed check
+Yes,No,72,DSL,Two year,Yes,84.1,No,Yes,3.0,2.0,252.29999999999998,168.2,Automatic
+No,No,16,Fiber optic,Month-to-month,Yes,78.75,No,Yes,0.0,1.0,0.0,78.75,Electronic check
+Yes,No,25,DSL,Month-to-month,No,55.55,No,No,1.0,0.0,55.55,0.0,Automatic
+Yes,No,24,No,One year,No,20.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,10,DSL,One year,No,70.3,No,No,2.0,1.0,140.6,70.3,Electronic check
+Yes,No,69,DSL,One year,Yes,53.65,No,No,2.0,0.0,107.3,0.0,Automatic
+No,No,57,No,Two year,No,20.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,50,Fiber optic,One year,Yes,103.4,No,No,3.0,2.0,310.20000000000005,206.8,Automatic
+Yes,Yes,28,DSL,One year,No,50.8,No,No,3.0,1.0,152.39999999999998,50.8,Mailed check
+No,No,25,DSL,Month-to-month,Yes,79.0,No,No,3.0,2.0,237.0,158.0,Mailed check
+Yes,No,3,Fiber optic,Month-to-month,Yes,74.6,No,Yes,1.0,0.0,74.6,0.0,Automatic
+Yes,No,61,Fiber optic,One year,Yes,96.5,No,No,0.0,2.0,0.0,193.0,Automatic
+No,No,2,No,Month-to-month,No,20.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,51,No,One year,No,19.4,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,71,DSL,Two year,No,77.55,No,No,2.0,2.0,155.1,155.1,Automatic
+Yes,Yes,20,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,6,No,Month-to-month,No,19.85,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,6,No,Month-to-month,No,20.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,29,DSL,Month-to-month,No,67.45,No,No,3.0,0.0,202.35000000000002,0.0,Mailed check
+No,No,36,No,Two year,Yes,18.55,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,28,DSL,Month-to-month,Yes,29.75,No,No,1.0,0.0,29.75,0.0,Mailed check
+No,No,63,No,Two year,No,24.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,48,No,Two year,No,23.55,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,49,No,One year,No,20.45,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,72,DSL,Two year,No,92.3,No,No,4.0,2.0,369.2,184.6,Automatic
+Yes,Yes,72,DSL,Two year,No,53.65,No,No,2.0,2.0,107.3,107.3,Automatic
+No,No,47,DSL,One year,No,39.65,No,No,3.0,0.0,118.94999999999999,0.0,Automatic
+No,No,1,DSL,Month-to-month,Yes,54.65,No,No,0.0,1.0,0.0,54.65,Electronic check
+No,No,36,Fiber optic,One year,Yes,104.8,No,No,2.0,2.0,209.6,209.6,Automatic
+Yes,Yes,43,DSL,Month-to-month,No,29.3,No,No,1.0,0.0,29.3,0.0,Automatic
+Yes,No,27,DSL,Month-to-month,No,83.85,No,Yes,3.0,2.0,251.54999999999998,167.7,Electronic check
+No,No,38,Fiber optic,Month-to-month,Yes,103.65,No,No,2.0,2.0,207.3,207.3,Electronic check
+No,No,35,Fiber optic,Month-to-month,Yes,99.05,No,Yes,1.0,2.0,99.05,198.1,Electronic check
+Yes,Yes,0,DSL,Two year,No,73.35,No,No,3.0,1.0,220.04999999999998,73.35,Mailed check
+Yes,No,59,Fiber optic,Two year,Yes,100.05,No,No,2.0,2.0,200.1,200.1,Mailed check
+No,No,27,No,Two year,No,20.35,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,2,DSL,Month-to-month,No,43.95,No,Yes,0.0,0.0,0.0,0.0,Electronic check
+No,No,7,No,Month-to-month,No,23.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,36,DSL,One year,Yes,70.7,No,No,2.0,1.0,141.4,70.7,Mailed check
+Yes,Yes,41,Fiber optic,Month-to-month,Yes,94.3,No,No,2.0,1.0,188.6,94.3,Automatic
+No,No,13,DSL,Month-to-month,No,29.15,No,No,1.0,0.0,29.15,0.0,Electronic check
+No,Yes,19,No,Two year,No,20.85,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,60,DSL,Two year,No,37.7,No,No,3.0,0.0,113.10000000000001,0.0,Automatic
+Yes,No,69,Fiber optic,Two year,Yes,92.45,No,No,2.0,1.0,184.9,92.45,Mailed check
+No,No,43,DSL,One year,No,44.15,No,No,2.0,1.0,88.3,44.15,Electronic check
+No,Yes,11,DSL,One year,Yes,36.05,No,No,2.0,0.0,72.1,0.0,Mailed check
+Yes,No,45,DSL,Month-to-month,Yes,50.25,No,No,1.0,0.0,50.25,0.0,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,109.75,No,No,3.0,2.0,329.25,219.5,Automatic
+Yes,Yes,12,No,Two year,No,20.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,67,Fiber optic,One year,Yes,112.35,No,No,3.0,2.0,337.04999999999995,224.7,Automatic
+Yes,No,37,Fiber optic,Two year,No,94.3,No,No,2.0,1.0,188.6,94.3,Mailed check
+No,No,39,DSL,One year,No,41.15,No,No,3.0,0.0,123.44999999999999,0.0,Automatic
+No,No,41,DSL,Month-to-month,Yes,74.65,No,No,3.0,1.0,223.95000000000002,74.65,Automatic
+No,No,25,DSL,Month-to-month,Yes,48.25,No,No,1.0,2.0,48.25,96.5,Electronic check
+Yes,Yes,8,DSL,Two year,Yes,76.15,No,No,3.0,1.0,228.45000000000002,76.15,Automatic
+Yes,Yes,71,DSL,Two year,No,71.1,No,No,4.0,0.0,284.4,0.0,Mailed check
+No,No,5,Fiber optic,Month-to-month,No,96.55,No,No,2.0,1.0,193.1,96.55,Electronic check
+No,No,30,DSL,One year,Yes,79.3,No,No,2.0,2.0,158.6,158.6,Automatic
+No,No,40,Fiber optic,One year,Yes,89.6,No,No,2.0,1.0,179.2,89.6,Automatic
+No,No,54,No,Two year,Yes,20.5,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,72,Fiber optic,Two year,Yes,106.3,No,No,2.0,2.0,212.6,212.6,Automatic
+Yes,Yes,28,Fiber optic,One year,No,100.35,No,No,2.0,2.0,200.7,200.7,Automatic
+Yes,Yes,18,Fiber optic,Month-to-month,Yes,85.6,No,No,1.0,1.0,85.6,85.6,Electronic check
+Yes,Yes,59,Fiber optic,One year,Yes,106.15,No,No,2.0,2.0,212.3,212.3,Electronic check
+Yes,Yes,22,DSL,Month-to-month,Yes,51.1,No,No,1.0,0.0,51.1,0.0,Electronic check
+No,No,1,No,Month-to-month,No,19.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,72,No,Two year,Yes,25.7,No,Yes,0.0,0.0,0.0,0.0,Automatic
+Yes,No,50,Fiber optic,One year,No,99.4,No,No,1.0,2.0,99.4,198.8,Electronic check
+Yes,Yes,48,DSL,One year,No,69.7,No,No,3.0,1.0,209.10000000000002,69.7,Automatic
+Yes,Yes,49,Fiber optic,Month-to-month,Yes,98.35,No,No,1.0,2.0,98.35,196.7,Electronic check
+Yes,Yes,28,Fiber optic,Month-to-month,No,85.45,No,No,1.0,1.0,85.45,85.45,Electronic check
+No,No,68,Fiber optic,Month-to-month,Yes,95.9,No,Yes,2.0,1.0,191.8,95.9,Electronic check
+No,No,13,Fiber optic,Month-to-month,No,100.75,No,No,1.0,2.0,100.75,201.5,Electronic check
+No,No,11,Fiber optic,Month-to-month,Yes,89.2,No,No,1.0,1.0,89.2,89.2,Electronic check
+Yes,No,72,No,Two year,No,25.75,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,70,DSL,Two year,Yes,84.1,No,No,3.0,2.0,252.29999999999998,168.2,Electronic check
+Yes,Yes,49,DSL,Two year,No,79.3,No,No,2.0,2.0,158.6,158.6,Automatic
+Yes,No,67,Fiber optic,One year,Yes,107.05,No,Yes,2.0,2.0,214.1,214.1,Automatic
+No,No,46,No,Two year,No,20.05,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,37,No,Month-to-month,No,19.5,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,13,DSL,Month-to-month,No,45.3,No,Yes,0.0,2.0,0.0,90.6,Electronic check
+Yes,No,72,Fiber optic,Two year,No,115.15,No,No,4.0,2.0,460.6,230.3,Electronic check
+Yes,Yes,68,DSL,Two year,Yes,72.95,No,No,2.0,2.0,145.9,145.9,Automatic
+Yes,Yes,15,No,One year,No,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,24,No,Two year,Yes,19.55,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,24,Fiber optic,Month-to-month,Yes,89.55,No,No,1.0,1.0,89.55,89.55,Electronic check
+No,No,27,DSL,Month-to-month,No,50.35,No,No,1.0,0.0,50.35,0.0,Mailed check
+Yes,Yes,71,DSL,Two year,No,87.25,No,No,4.0,2.0,349.0,174.5,Automatic
+Yes,Yes,67,No,Two year,Yes,20.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,63,Fiber optic,Two year,Yes,109.25,No,No,3.0,2.0,327.75,218.5,Automatic
+No,No,1,No,Month-to-month,No,20.35,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,4,DSL,Month-to-month,Yes,55.9,No,No,0.0,1.0,0.0,55.9,Electronic check
+Yes,Yes,52,DSL,Two year,No,79.2,No,No,3.0,2.0,237.60000000000002,158.4,Electronic check
+No,No,10,No,Month-to-month,Yes,24.0,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,68,Fiber optic,One year,No,101.35,No,No,3.0,1.0,304.04999999999995,101.35,Automatic
+Yes,No,52,DSL,One year,No,35.45,No,No,2.0,0.0,70.9,0.0,Mailed check
+Yes,No,70,DSL,One year,No,79.4,No,No,4.0,1.0,317.6,79.4,Automatic
+No,No,43,DSL,One year,Yes,35.2,No,No,2.0,0.0,70.4,0.0,Automatic
+No,No,52,No,Two year,No,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,12,DSL,Two year,No,49.85,No,No,3.0,1.0,149.55,49.85,Mailed check
+Yes,Yes,56,DSL,One year,No,68.75,No,No,2.0,1.0,137.5,68.75,Automatic
+No,Yes,0,DSL,Two year,Yes,61.9,No,No,3.0,0.0,185.7,0.0,Automatic
+No,No,42,Fiber optic,Month-to-month,No,79.9,No,No,1.0,0.0,79.9,0.0,Electronic check
+Yes,No,22,Fiber optic,Month-to-month,Yes,89.75,No,Yes,0.0,2.0,0.0,179.5,Automatic
+No,No,27,No,Month-to-month,Yes,19.4,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,51,Fiber optic,One year,Yes,93.65,No,Yes,2.0,1.0,187.3,93.65,Automatic
+No,No,1,No,Month-to-month,Yes,19.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,71,DSL,One year,Yes,72.9,No,Yes,3.0,1.0,218.70000000000002,72.9,Automatic
+Yes,Yes,69,No,Two year,Yes,25.6,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,14,No,One year,No,19.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,57,DSL,Month-to-month,No,55.7,No,No,2.0,0.0,111.4,0.0,Electronic check
+Yes,Yes,72,Fiber optic,Two year,No,117.5,No,No,4.0,2.0,470.0,235.0,Automatic
+No,No,48,No,Two year,No,19.85,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,4,Fiber optic,Month-to-month,Yes,78.9,No,No,0.0,1.0,0.0,78.9,Mailed check
+Yes,Yes,31,No,Month-to-month,Yes,20.65,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,1,No,Month-to-month,No,19.65,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,57,DSL,Two year,Yes,79.75,No,Yes,2.0,2.0,159.5,159.5,Automatic
+Yes,No,62,DSL,Two year,Yes,79.95,No,Yes,3.0,2.0,239.85000000000002,159.9,Automatic
+Yes,No,3,DSL,Month-to-month,Yes,29.9,No,No,1.0,0.0,29.9,0.0,Electronic check
+No,Yes,72,No,Two year,Yes,19.75,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,29,DSL,Month-to-month,Yes,45.0,No,No,4.0,0.0,180.0,0.0,Mailed check
+Yes,Yes,13,DSL,Month-to-month,No,44.8,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,11,DSL,Month-to-month,No,51.1,No,No,1.0,0.0,51.1,0.0,Electronic check
+No,Yes,21,DSL,Two year,No,53.15,No,No,4.0,1.0,212.6,53.15,Mailed check
+No,No,19,No,Month-to-month,No,24.7,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,35,Fiber optic,Month-to-month,Yes,109.95,No,No,3.0,2.0,329.85,219.9,Electronic check
+No,Yes,25,No,Month-to-month,No,20.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,67,No,Two year,Yes,25.6,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,72,Fiber optic,Two year,Yes,108.4,No,No,3.0,2.0,325.20000000000005,216.8,Automatic
+No,No,43,No,Two year,No,19.55,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,55,Fiber optic,Month-to-month,Yes,85.1,No,No,2.0,0.0,170.2,0.0,Electronic check
+No,No,27,Fiber optic,Month-to-month,Yes,69.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,13,Fiber optic,Month-to-month,Yes,70.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,70,Fiber optic,Two year,Yes,111.15,No,No,3.0,2.0,333.45000000000005,222.3,Mailed check
+Yes,Yes,19,Fiber optic,One year,Yes,89.35,No,No,1.0,1.0,89.35,89.35,Automatic
+No,No,20,Fiber optic,Month-to-month,Yes,89.1,No,No,1.0,1.0,89.1,89.1,Automatic
+Yes,Yes,43,Fiber optic,One year,Yes,91.25,No,No,3.0,0.0,273.75,0.0,Automatic
+Yes,Yes,5,Fiber optic,Month-to-month,Yes,90.35,No,No,2.0,1.0,180.7,90.35,Mailed check
+Yes,No,70,Fiber optic,One year,Yes,105.55,No,Yes,2.0,2.0,211.1,211.1,Automatic
+Yes,No,40,No,Two year,No,19.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,6,No,Two year,Yes,20.4,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,39,Fiber optic,Two year,Yes,100.45,No,No,2.0,2.0,200.9,200.9,Electronic check
+No,No,45,Fiber optic,Month-to-month,Yes,85.7,No,Yes,3.0,0.0,257.1,0.0,Automatic
+Yes,No,57,Fiber optic,Month-to-month,No,94.0,No,Yes,2.0,1.0,188.0,94.0,Automatic
+Yes,Yes,72,DSL,Two year,No,69.85,No,No,4.0,0.0,279.4,0.0,Automatic
+Yes,No,72,No,Two year,No,25.85,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,3,DSL,Two year,No,71.1,No,No,3.0,1.0,213.29999999999998,71.1,Mailed check
+Yes,No,59,Fiber optic,Month-to-month,No,93.35,No,No,2.0,1.0,186.7,93.35,Electronic check
+No,No,4,DSL,Month-to-month,Yes,50.55,No,No,1.0,0.0,50.55,0.0,Automatic
+No,No,27,Fiber optic,Month-to-month,Yes,81.3,No,No,1.0,0.0,81.3,0.0,Electronic check
+No,No,4,No,Month-to-month,Yes,20.7,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,60,DSL,Month-to-month,Yes,79.05,No,No,3.0,2.0,237.14999999999998,158.1,Automatic
+Yes,Yes,8,No,Two year,No,19.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,8,No,Two year,No,19.6,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,35,No,Two year,Yes,20.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,53,No,Two year,No,20.9,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,18,Fiber optic,Month-to-month,Yes,103.6,No,Yes,2.0,2.0,207.2,207.2,Automatic
+No,No,15,DSL,Two year,Yes,38.8,No,No,1.0,1.0,38.8,38.8,Mailed check
+Yes,No,67,Fiber optic,One year,Yes,88.4,No,No,1.0,1.0,88.4,88.4,Automatic
+No,No,6,Fiber optic,Month-to-month,Yes,79.7,No,Yes,0.0,1.0,0.0,79.7,Electronic check
+No,Yes,1,No,Month-to-month,Yes,19.3,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,5,DSL,Month-to-month,Yes,55.75,No,No,2.0,0.0,111.5,0.0,Mailed check
+No,No,13,No,One year,Yes,19.95,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,29,Fiber optic,Month-to-month,No,89.65,No,No,2.0,1.0,179.3,89.65,Mailed check
+No,No,1,DSL,Month-to-month,Yes,45.85,No,Yes,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,18,DSL,Month-to-month,No,55.95,No,No,0.0,1.0,0.0,55.95,Mailed check
+Yes,No,2,DSL,Month-to-month,No,69.0,No,No,1.0,2.0,69.0,138.0,Automatic
+Yes,Yes,30,Fiber optic,Month-to-month,Yes,83.55,No,No,2.0,0.0,167.1,0.0,Automatic
+No,Yes,66,DSL,Two year,No,65.7,No,No,3.0,0.0,197.10000000000002,0.0,Automatic
+Yes,Yes,38,Fiber optic,Two year,Yes,94.9,No,No,2.0,1.0,189.8,94.9,Automatic
+Yes,Yes,44,DSL,Month-to-month,Yes,61.9,No,No,3.0,0.0,185.7,0.0,Mailed check
+No,No,2,No,Month-to-month,No,20.0,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,42,DSL,One year,Yes,67.7,No,No,3.0,1.0,203.10000000000002,67.7,Mailed check
+Yes,Yes,58,No,Two year,No,25.15,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,58,Fiber optic,Month-to-month,Yes,92.85,No,No,1.0,2.0,92.85,185.7,Electronic check
+No,No,71,Fiber optic,Two year,No,111.3,No,No,4.0,2.0,445.2,222.6,Mailed check
+Yes,No,48,DSL,One year,Yes,60.6,No,No,2.0,0.0,121.2,0.0,Automatic
+Yes,No,8,DSL,Two year,No,65.5,No,No,2.0,1.0,131.0,65.5,Mailed check
+No,No,67,No,Two year,No,19.95,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,49,Fiber optic,Month-to-month,Yes,74.6,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,52,Fiber optic,Month-to-month,No,94.6,No,No,2.0,1.0,189.2,94.6,Automatic
+Yes,No,63,Fiber optic,One year,Yes,81.15,No,No,2.0,0.0,162.3,0.0,Automatic
+Yes,Yes,68,DSL,Two year,Yes,89.05,No,No,4.0,2.0,356.2,178.1,Automatic
+Yes,No,31,DSL,Month-to-month,Yes,49.2,No,No,1.0,0.0,49.2,0.0,Mailed check
+Yes,No,64,No,Two year,No,19.45,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,62,Fiber optic,One year,Yes,104.3,No,No,3.0,2.0,312.9,208.6,Electronic check
+Yes,No,21,Fiber optic,Month-to-month,Yes,86.05,No,No,1.0,1.0,86.05,86.05,Electronic check
+Yes,Yes,72,No,Two year,No,25.2,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,32,DSL,Month-to-month,Yes,35.15,No,No,2.0,0.0,70.3,0.0,Electronic check
+No,No,71,Fiber optic,One year,Yes,99.65,No,Yes,3.0,1.0,298.95000000000005,99.65,Automatic
+No,Yes,34,Fiber optic,Month-to-month,Yes,105.35,No,No,3.0,2.0,316.04999999999995,210.7,Automatic
+Yes,Yes,35,No,Two year,No,24.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,3,Fiber optic,Month-to-month,Yes,80.7,No,No,0.0,1.0,0.0,80.7,Electronic check
+No,No,3,Fiber optic,Month-to-month,Yes,89.85,No,No,2.0,1.0,179.7,89.85,Mailed check
+No,No,53,DSL,One year,Yes,61.1,No,No,1.0,1.0,61.1,61.1,Electronic check
+Yes,No,4,DSL,Month-to-month,Yes,29.05,No,No,1.0,0.0,29.05,0.0,Electronic check
+Yes,Yes,48,Fiber optic,One year,Yes,99.7,No,No,2.0,2.0,199.4,199.4,Automatic
+Yes,Yes,54,DSL,Two year,No,46.0,No,No,2.0,1.0,92.0,46.0,Automatic
+No,No,62,DSL,Month-to-month,Yes,80.4,No,No,3.0,2.0,241.20000000000002,160.8,Automatic
+Yes,Yes,22,Fiber optic,One year,Yes,100.05,No,No,2.0,2.0,200.1,200.1,Mailed check
+No,No,51,Fiber optic,One year,Yes,94.0,No,Yes,1.0,2.0,94.0,188.0,Automatic
+No,No,30,DSL,One year,Yes,68.95,No,No,2.0,1.0,137.9,68.95,Automatic
+Yes,No,56,DSL,One year,Yes,68.45,No,Yes,4.0,0.0,273.8,0.0,Automatic
+Yes,No,35,DSL,One year,Yes,69.0,No,No,2.0,1.0,138.0,69.0,Electronic check
+No,No,64,DSL,Month-to-month,Yes,43.85,No,Yes,2.0,1.0,87.7,43.85,Electronic check
+No,Yes,30,DSL,Month-to-month,Yes,44.5,No,No,0.0,2.0,0.0,89.0,Electronic check
+Yes,Yes,25,No,Two year,Yes,18.7,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,1,DSL,Month-to-month,Yes,53.55,No,No,2.0,0.0,107.1,0.0,Mailed check
+No,Yes,70,Fiber optic,Two year,Yes,114.6,No,No,4.0,2.0,458.4,229.2,Electronic check
+Yes,Yes,57,No,Two year,Yes,20.1,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,9,Fiber optic,Month-to-month,Yes,85.5,No,No,0.0,1.0,0.0,85.5,Electronic check
+Yes,Yes,69,Fiber optic,One year,Yes,108.75,No,No,3.0,2.0,326.25,217.5,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,97.85,No,No,1.0,2.0,97.85,195.7,Electronic check
+No,Yes,44,No,Two year,No,19.55,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,72,Fiber optic,Two year,Yes,84.05,No,No,2.0,0.0,168.1,0.0,Automatic
+No,No,54,Fiber optic,Month-to-month,No,89.4,No,No,1.0,1.0,89.4,89.4,Automatic
+No,Yes,27,No,Two year,No,19.7,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,54,Fiber optic,Month-to-month,Yes,79.85,No,No,1.0,0.0,79.85,0.0,Automatic
+No,No,3,Fiber optic,Month-to-month,No,74.45,No,No,1.0,0.0,74.45,0.0,Automatic
+Yes,No,53,DSL,One year,No,74.1,No,No,3.0,1.0,222.29999999999998,74.1,Automatic
+Yes,No,15,No,One year,No,18.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,5,DSL,Month-to-month,No,64.4,No,No,3.0,0.0,193.20000000000002,0.0,Automatic
+Yes,Yes,48,DSL,One year,Yes,55.8,No,No,2.0,0.0,111.6,0.0,Automatic
+No,Yes,25,No,Month-to-month,No,20.05,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,58,Fiber optic,One year,No,99.15,No,No,2.0,2.0,198.3,198.3,Automatic
+No,No,10,DSL,Month-to-month,Yes,56.75,No,No,0.0,1.0,0.0,56.75,Automatic
+Yes,No,71,Fiber optic,Two year,Yes,104.15,No,No,2.0,2.0,208.3,208.3,Automatic
+Yes,Yes,65,Fiber optic,Two year,Yes,110.8,No,No,3.0,2.0,332.4,221.6,Automatic
+No,No,28,DSL,Month-to-month,Yes,35.75,No,No,2.0,0.0,71.5,0.0,Mailed check
+Yes,Yes,67,DSL,Two year,Yes,69.9,No,No,2.0,1.0,139.8,69.9,Automatic
+No,No,35,Fiber optic,One year,Yes,89.2,No,No,2.0,1.0,178.4,89.2,Electronic check
+Yes,Yes,72,DSL,Two year,No,55.65,No,No,4.0,1.0,222.6,55.65,Automatic
+Yes,Yes,61,DSL,One year,Yes,50.7,No,No,3.0,1.0,152.10000000000002,50.7,Automatic
+No,No,68,No,Two year,Yes,20.0,No,Yes,0.0,0.0,0.0,0.0,Automatic
+No,No,3,No,Month-to-month,Yes,19.1,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,Yes,48,DSL,Month-to-month,No,45.55,No,No,2.0,1.0,91.1,45.55,Automatic
+Yes,Yes,68,Fiber optic,One year,Yes,101.05,No,No,1.0,2.0,101.05,202.1,Automatic
+No,No,47,Fiber optic,One year,Yes,103.7,No,No,3.0,2.0,311.1,207.4,Electronic check
+Yes,Yes,32,DSL,One year,Yes,36.25,No,No,2.0,0.0,72.5,0.0,Mailed check
+Yes,Yes,5,DSL,Month-to-month,Yes,49.4,No,No,1.0,0.0,49.4,0.0,Mailed check
+No,No,49,No,Two year,Yes,19.9,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,15,No,Month-to-month,Yes,19.8,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,12,DSL,Month-to-month,Yes,45.05,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,67,DSL,Two year,Yes,64.55,No,Yes,3.0,0.0,193.64999999999998,0.0,Automatic
+No,No,9,Fiber optic,Month-to-month,No,86.25,No,No,1.0,1.0,86.25,86.25,Electronic check
+Yes,Yes,13,No,Two year,Yes,19.75,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,38,Fiber optic,One year,Yes,89.1,No,No,0.0,2.0,0.0,178.2,Mailed check
+Yes,No,42,Fiber optic,Month-to-month,Yes,95.55,No,Yes,2.0,1.0,191.1,95.55,Electronic check
+Yes,Yes,9,Fiber optic,Month-to-month,Yes,102.6,No,No,2.0,2.0,205.2,205.2,Automatic
+Yes,No,49,DSL,One year,Yes,56.3,No,No,2.0,2.0,112.6,112.6,Automatic
+Yes,No,61,Fiber optic,Month-to-month,Yes,94.2,No,Yes,4.0,0.0,376.8,0.0,Automatic
+No,Yes,50,DSL,One year,Yes,43.05,No,No,2.0,1.0,86.1,43.05,Automatic
+Yes,No,53,Fiber optic,One year,Yes,94.0,No,Yes,3.0,1.0,282.0,94.0,Electronic check
+Yes,No,51,Fiber optic,One year,Yes,98.85,No,No,1.0,2.0,98.85,197.7,Electronic check
+Yes,Yes,24,DSL,Two year,No,64.35,No,No,3.0,0.0,193.04999999999998,0.0,Electronic check
+Yes,No,62,DSL,Two year,Yes,72.0,No,No,3.0,1.0,216.0,72.0,Automatic
+No,No,24,DSL,Month-to-month,Yes,49.7,No,No,1.0,0.0,49.7,0.0,Mailed check
+Yes,Yes,70,DSL,Two year,No,80.7,No,No,4.0,1.0,322.8,80.7,Electronic check
+No,Yes,1,DSL,Month-to-month,No,24.2,No,No,0.0,0.0,0.0,0.0,Mailed check
+No,No,8,DSL,Month-to-month,Yes,65.45,No,No,2.0,1.0,130.9,65.45,Electronic check
+Yes,Yes,72,DSL,Two year,Yes,74.35,No,No,4.0,1.0,297.4,74.35,Electronic check
+No,No,23,Fiber optic,Month-to-month,No,83.2,No,No,3.0,0.0,249.60000000000002,0.0,Automatic
+No,Yes,31,DSL,Month-to-month,No,25.0,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,37,DSL,One year,Yes,40.2,No,No,3.0,0.0,120.60000000000001,0.0,Electronic check
+No,No,35,Fiber optic,One year,Yes,108.35,No,Yes,3.0,2.0,325.04999999999995,216.7,Electronic check
+Yes,Yes,23,DSL,Month-to-month,Yes,69.5,No,No,2.0,1.0,139.0,69.5,Automatic
+Yes,Yes,20,DSL,One year,No,76.0,No,No,1.0,2.0,76.0,152.0,Automatic
+Yes,No,36,Fiber optic,Month-to-month,Yes,93.6,No,No,1.0,2.0,93.6,187.2,Electronic check
+Yes,Yes,71,Fiber optic,One year,No,100.55,No,No,1.0,2.0,100.55,201.1,Automatic
+Yes,Yes,43,No,One year,Yes,24.45,No,No,0.0,0.0,0.0,0.0,Automatic
+No,Yes,57,DSL,Two year,No,89.55,No,No,4.0,2.0,358.2,179.1,Mailed check
+Yes,No,27,Fiber optic,Month-to-month,Yes,76.1,No,No,1.0,0.0,76.1,0.0,Electronic check
+No,No,13,Fiber optic,Month-to-month,Yes,80.5,No,No,0.0,1.0,0.0,80.5,Electronic check
+No,No,67,No,One year,No,20.55,No,No,0.0,0.0,0.0,0.0,Electronic check
+Yes,No,64,Fiber optic,Two year,Yes,105.4,No,No,2.0,2.0,210.8,210.8,Automatic
+No,No,26,DSL,Month-to-month,No,35.75,No,No,2.0,0.0,71.5,0.0,Electronic check
+No,No,38,Fiber optic,Month-to-month,Yes,95.1,No,No,2.0,1.0,190.2,95.1,Automatic
+Yes,No,23,No,One year,No,19.3,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,No,72,DSL,Two year,Yes,63.1,No,Yes,4.0,2.0,252.4,126.2,Automatic
+Yes,No,62,DSL,Two year,Yes,84.95,No,No,3.0,2.0,254.85000000000002,169.9,Electronic check
+No,No,40,Fiber optic,Month-to-month,Yes,93.4,No,No,2.0,1.0,186.8,93.4,Automatic
+No,No,41,Fiber optic,Month-to-month,Yes,89.2,No,No,1.0,1.0,89.2,89.2,Electronic check
+Yes,No,34,Fiber optic,Month-to-month,Yes,85.2,No,Yes,1.0,1.0,85.2,85.2,Automatic
+No,No,1,DSL,Month-to-month,No,49.95,No,No,1.0,0.0,49.95,0.0,Electronic check
+No,No,51,No,Two year,No,20.65,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,39,No,Two year,No,20.15,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,Yes,12,No,Month-to-month,Yes,19.2,No,No,0.0,0.0,0.0,0.0,Electronic check
+No,No,72,Fiber optic,One year,Yes,104.95,No,No,2.0,2.0,209.9,209.9,Electronic check
+Yes,No,63,Fiber optic,Month-to-month,Yes,103.5,No,Yes,2.0,2.0,207.0,207.0,Electronic check
+Yes,No,44,Fiber optic,Month-to-month,Yes,84.8,No,No,2.0,0.0,169.6,0.0,Automatic
+No,No,18,Fiber optic,Month-to-month,Yes,95.05,No,No,2.0,1.0,190.1,95.05,Automatic
+No,No,13,DSL,Month-to-month,No,73.35,No,No,2.0,2.0,146.7,146.7,Mailed check
+Yes,No,68,DSL,Two year,No,64.1,No,No,2.0,1.0,128.2,64.1,Automatic
+No,No,6,DSL,Month-to-month,Yes,44.4,No,Yes,0.0,2.0,0.0,88.8,Electronic check
+No,No,2,No,Month-to-month,Yes,20.05,No,No,0.0,0.0,0.0,0.0,Mailed check
+Yes,No,55,DSL,One year,No,60.0,No,Yes,2.0,0.0,120.0,0.0,Automatic
+No,No,38,Fiber optic,Month-to-month,Yes,69.5,No,No,0.0,0.0,0.0,0.0,Automatic
+No,No,19,Fiber optic,Month-to-month,Yes,78.7,No,No,0.0,1.0,0.0,78.7,Automatic
+No,No,12,DSL,One year,No,60.65,No,No,3.0,2.0,181.95,121.3,Electronic check
+No,No,72,No,Two year,Yes,21.15,No,No,0.0,0.0,0.0,0.0,Automatic
+Yes,Yes,24,DSL,One year,Yes,84.8,No,No,3.0,2.0,254.39999999999998,169.6,Mailed check
+Yes,Yes,72,Fiber optic,One year,Yes,103.2,No,No,2.0,2.0,206.4,206.4,Automatic
+Yes,Yes,11,DSL,Month-to-month,Yes,29.6,No,No,1.0,0.0,29.6,0.0,Electronic check
+No,No,66,Fiber optic,Two year,Yes,105.65,No,No,3.0,2.0,316.95000000000005,211.3,Automatic
